@@ -6620,16 +6620,6 @@
   "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/561/6654fe3d42f15-uzfl6-zt10n-7d97826cd2aaa3ddc7f9306e49ffcc2d.jpg"
  },
  {
-  "key": "marketplace:cards:tcg2:5150|561|012",
-  "liga_card_id": "5150",
-  "liga_edition_id": "561",
-  "number": "012",
-  "set_total": "015",
-  "name_pt": "Pesquisa de Professores: Prof. Magnólia (012/015)",
-  "name_en": "Professor's Research: Professor Magnolia (012/015)",
-  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/561/6654fe3edb430-k92it-uj37v-7d97826cd2aaa3ddc7f9306e49ffcc2d.jpg"
- },
- {
   "key": "marketplace:cards:tcg2:4940|561|013",
   "liga_card_id": "4940",
   "liga_edition_id": "561",
@@ -13310,16 +13300,6 @@
   "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/695/68003de76105d-bjy8h-ybgi2-b2f1384bc92f7625f89ae9a96ddc8bea.jpg"
  },
  {
-  "key": "marketplace:cards:tcg2:561|695|014",
-  "liga_card_id": "561",
-  "liga_edition_id": "695",
-  "number": "014",
-  "set_total": "015",
-  "name_pt": "Energia Psíquica (014/015)",
-  "name_en": "Psychic Energy (014/015)",
-  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/695/68003de9ce995-c6zt3-cj37x-b2f1384bc92f7625f89ae9a96ddc8bea.jpg"
- },
- {
   "key": "marketplace:cards:tcg2:561|695|015",
   "liga_card_id": "561",
   "liga_edition_id": "695",
@@ -15258,26 +15238,6 @@
   "name_pt": "Energia Psíquica (013/015)",
   "name_en": "Psychic Energy (013/015)",
   "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/785/6a0b69170047d-cfy6t-ps01u-04c5aa442efc838ed743d9610b612e5c.jpg"
- },
- {
-  "key": "marketplace:cards:tcg2:561|785|014",
-  "liga_card_id": "561",
-  "liga_edition_id": "785",
-  "number": "014",
-  "set_total": "015",
-  "name_pt": "Energia Psíquica (014/015)",
-  "name_en": "Psychic Energy (014/015)",
-  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/785/6a0b691866863-w3t5d-ad265-04c5aa442efc838ed743d9610b612e5c.jpg"
- },
- {
-  "key": "marketplace:cards:tcg2:561|785|015",
-  "liga_card_id": "561",
-  "liga_edition_id": "785",
-  "number": "015",
-  "set_total": "015",
-  "name_pt": "Energia Psíquica (015/015)",
-  "name_en": "Psychic Energy (015/015)",
-  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/785/6a0b6919d1939-7tng3-85vxo-04c5aa442efc838ed743d9610b612e5c.jpg"
  },
  {
   "key": "marketplace:cards:tcg2:931|786|001",
