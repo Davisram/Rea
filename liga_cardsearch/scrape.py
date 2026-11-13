@@ -13,7 +13,7 @@ substring no nome exibido, ex.: "Muk (005/086)". Estratégia:
      STOP_AFTER_MISSES buscas vazias seguidas (pega cartas secretas).
   3. Variantes japonesas: "JP/D"; se saturar, "NNNJP/D" para cada número.
   4. Busca saturada (10 itens): refina com a última letra do nome,
-     "a (NNN/D)", "b (NNN/D)", ... recursivamente.
+     "a (NNN/D)", "b (NNN/D)", ... (um nível).
 
 Todas as respostas ficam em cache (queries.jsonl), então o script pode ser
 interrompido e retomado. Saída: cards.json e cards.csv.
@@ -39,7 +39,8 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; liga-catalog-sync/1.0)",
 }
 CAP = 10  # limite fixo de resultados do servidor
-REFINE_CHARS = string.ascii_lowercase + string.digits + ")-.'!?&;"
+# Último caractere do nome antes de " (": medido nas buscas já feitas.
+REFINE_CHARS = string.ascii_lowercase + string.digits + ";"
 
 
 class Blocked(Exception):
@@ -110,15 +111,19 @@ def split_number(name):
     return (m.group(1), m.group(2)) if m else ("", "")
 
 
-def search_complete(cli, q, depth=0):
-    """Busca q; se saturar, refina com o caractere anterior ao texto."""
+def search_complete(cli, q, depth=0, max_depth=1):
+    """Busca q; se saturar, refina com o caractere anterior ao texto.
+
+    Um segundo nível de refinamento custou ~3.300 buscas para achar 8 cartas,
+    por isso o padrão é só um nível.
+    """
     data = cli.search(q)
-    if len(data) < CAP or depth >= 2:
+    if len(data) < CAP or depth >= max_depth:
         return data
     out = {d["__key"]: d for d in data}
     for ch in REFINE_CHARS:
         child = f"{ch} ({q})" if depth == 0 else ch + q
-        for d in search_complete(cli, child, depth + 1):
+        for d in search_complete(cli, child, depth + 1, max_depth):
             out[d["__key"]] = d
     return list(out.values())
 
@@ -128,7 +133,7 @@ def main():
     ap.add_argument("--out", default="data")
     ap.add_argument("--delay", type=float, default=1.0, help="segundos entre requisições")
     ap.add_argument("--max-denom", type=int, default=400)
-    ap.add_argument("--stop-after-misses", type=int, default=25)
+    ap.add_argument("--stop-after-misses", type=int, default=16)
     ap.add_argument("--denoms", help="limitar a estes denominadores, ex.: 086,072")
     args = ap.parse_args()
     os.makedirs(args.out, exist_ok=True)
