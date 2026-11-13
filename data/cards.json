@@ -6820,6 +6820,16 @@
   "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/357/659d8ffc49b23-54x3k-0jw4b-a825a95a25f95c4b88f1cbd2491883d1.jpg"
  },
  {
+  "key": "marketplace:cards:tcg2:39|359|005",
+  "liga_card_id": "39",
+  "liga_edition_id": "359",
+  "number": "005",
+  "set_total": "034",
+  "name_pt": "Victini (005/034)",
+  "name_en": "Victini (005/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/359/39_005.jpg"
+ },
+ {
   "key": "marketplace:cards:tcg2:134|361|001",
   "liga_card_id": "134",
   "liga_edition_id": "361",
@@ -7338,6 +7348,376 @@
   "name_pt": "Celebi (001/036)",
   "name_en": "Celebi (001/036)",
   "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/394/659dbb7323703-7y8gk-iugv5-82756d39dc7617f897883c56424b1370.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:482|394|002",
+  "liga_card_id": "482",
+  "liga_edition_id": "394",
+  "number": "002",
+  "set_total": "036",
+  "name_pt": "Celebi (002/036)",
+  "name_en": "Celebi (002/036)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/394/659dbb74b7b1d-wq1d7-jdriw-82756d39dc7617f897883c56424b1370.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1398|394|003",
+  "liga_card_id": "1398",
+  "liga_edition_id": "394",
+  "number": "003",
+  "set_total": "036",
+  "name_pt": "Shaymin (003/036)",
+  "name_en": "Shaymin (003/036)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/394/659dbb764ec59-fruca-grtn3-82756d39dc7617f897883c56424b1370.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1398|394|004",
+  "liga_card_id": "1398",
+  "liga_edition_id": "394",
+  "number": "004",
+  "set_total": "036",
+  "name_pt": "Shaymin (004/036)",
+  "name_en": "Shaymin (004/036)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/394/659dbb77dee40-f6vco-5fx6o-82756d39dc7617f897883c56424b1370.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:38|394|005",
+  "liga_card_id": "38",
+  "liga_edition_id": "394",
+  "number": "005",
+  "set_total": "036",
+  "name_pt": "Moltres (005/036)",
+  "name_en": "Moltres (005/036)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/394/659dbb797aee9-trnlm-iyrwo-82756d39dc7617f897883c56424b1370.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:39|394|006",
+  "liga_card_id": "39",
+  "liga_edition_id": "394",
+  "number": "006",
+  "set_total": "036",
+  "name_pt": "Victini (006/036)",
+  "name_en": "Victini (006/036)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/394/659dbb7b1b3f4-yu0sz-fid7s-82756d39dc7617f897883c56424b1370.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:39|394|007",
+  "liga_card_id": "39",
+  "liga_edition_id": "394",
+  "number": "007",
+  "set_total": "036",
+  "name_pt": "Victini (007/036)",
+  "name_en": "Victini (007/036)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/394/659dbb7cae301-k01n8-horq5-82756d39dc7617f897883c56424b1370.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:4185|394|008",
+  "liga_card_id": "4185",
+  "liga_edition_id": "394",
+  "number": "008",
+  "set_total": "036",
+  "name_pt": "Volcanion (008/036)",
+  "name_en": "Volcanion (008/036)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/394/659dbb7e4ee34-7d5kj-jef05-82756d39dc7617f897883c56424b1370.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:4185|394|009",
+  "liga_card_id": "4185",
+  "liga_edition_id": "394",
+  "number": "009",
+  "set_total": "036",
+  "name_pt": "Volcanion (009/036)",
+  "name_en": "Volcanion (009/036)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/394/659dbb7feba4a-fcide-605jc-82756d39dc7617f897883c56424b1370.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:264|394|010",
+  "liga_card_id": "264",
+  "liga_edition_id": "394",
+  "number": "010",
+  "set_total": "036",
+  "name_pt": "Suicune (010/036)",
+  "name_en": "Suicune (010/036)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/394/659dbb81862c3-018dt-ie23m-82756d39dc7617f897883c56424b1370.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:2|394|011",
+  "liga_card_id": "2",
+  "liga_edition_id": "394",
+  "number": "011",
+  "set_total": "036",
+  "name_pt": "Manaphy (011/036)",
+  "name_en": "Manaphy (011/036)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/394/659dbb832185b-c9wla-zarsq-82756d39dc7617f897883c56424b1370.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:2|394|012",
+  "liga_card_id": "2",
+  "liga_edition_id": "394",
+  "number": "012",
+  "set_total": "036",
+  "name_pt": "Manaphy (012/036)",
+  "name_en": "Manaphy (012/036)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/394/659dbb84b1927-zp2i6-u1fvt-82756d39dc7617f897883c56424b1370.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:994|394|013",
+  "liga_card_id": "994",
+  "liga_edition_id": "394",
+  "number": "013",
+  "set_total": "036",
+  "name_pt": "Keldeo (013/036)",
+  "name_en": "Keldeo (013/036)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/394/659dbb8652150-aygs5-1vs20-82756d39dc7617f897883c56424b1370.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:994|394|014",
+  "liga_card_id": "994",
+  "liga_edition_id": "394",
+  "number": "014",
+  "set_total": "036",
+  "name_pt": "Keldeo (014/036)",
+  "name_en": "Keldeo (014/036)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/394/659dbb87e4510-xjw46-q1i04-82756d39dc7617f897883c56424b1370.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:993|394|015",
+  "liga_card_id": "993",
+  "liga_edition_id": "394",
+  "number": "015",
+  "set_total": "036",
+  "name_pt": "Kyurem Branco (015/036)",
+  "name_en": "White Kyurem (015/036)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/394/659dbb8986a97-y35iw-g6lf1-82756d39dc7617f897883c56424b1370.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:260|394|016",
+  "liga_card_id": "260",
+  "liga_edition_id": "394",
+  "number": "016",
+  "set_total": "036",
+  "name_pt": "Mew (016/036)",
+  "name_en": "Mew (016/036)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/394/659dbb8b20d01-hjzfe-n8obl-82756d39dc7617f897883c56424b1370.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:260|394|017",
+  "liga_card_id": "260",
+  "liga_edition_id": "394",
+  "number": "017",
+  "set_total": "036",
+  "name_pt": "Mew (017/036)",
+  "name_en": "Mew (017/036)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/394/659dbb8cabc80-3uzfd-0o3su-82756d39dc7617f897883c56424b1370.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:90|394|018",
+  "liga_card_id": "90",
+  "liga_edition_id": "394",
+  "number": "018",
+  "set_total": "036",
+  "name_pt": "Meloetta (018/036)",
+  "name_en": "Meloetta (018/036)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/394/659dbb8e477e7-87in5-n76e5-82756d39dc7617f897883c56424b1370.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:90|394|019",
+  "liga_card_id": "90",
+  "liga_edition_id": "394",
+  "number": "019",
+  "set_total": "036",
+  "name_pt": "Meloetta (019/036)",
+  "name_en": "Meloetta (019/036)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/394/659dbb8fe6492-k0y9s-dghlx-82756d39dc7617f897883c56424b1370.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:2126|394|020",
+  "liga_card_id": "2126",
+  "liga_edition_id": "394",
+  "number": "020",
+  "set_total": "036",
+  "name_pt": "Hoopa-EX (020/036)",
+  "name_en": "Hoopa-EX (020/036)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/394/659dbb91837e2-0weo8-ua5lz-82756d39dc7617f897883c56424b1370.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:4109|394|021",
+  "liga_card_id": "4109",
+  "liga_edition_id": "394",
+  "number": "021",
+  "set_total": "036",
+  "name_pt": "Zygarde (021/036)",
+  "name_en": "Zygarde (021/036)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/394/659dbb93248c4-x9fnw-iu7ys-82756d39dc7617f897883c56424b1370.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:4153|394|022",
+  "liga_card_id": "4153",
+  "liga_edition_id": "394",
+  "number": "022",
+  "set_total": "036",
+  "name_pt": "Zygarde-EX (022/036)",
+  "name_en": "Zygarde-EX (022/036)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/394/659dbb94b7193-bw3o6-4m27l-82756d39dc7617f897883c56424b1370.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:150|394|023",
+  "liga_card_id": "150",
+  "liga_edition_id": "394",
+  "number": "023",
+  "set_total": "036",
+  "name_pt": "Darkrai (023/036)",
+  "name_en": "Darkrai (023/036)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/394/659dbb9652b85-gdhpz-t3109-82756d39dc7617f897883c56424b1370.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:150|394|024",
+  "liga_card_id": "150",
+  "liga_edition_id": "394",
+  "number": "024",
+  "set_total": "036",
+  "name_pt": "Darkrai (024/036)",
+  "name_en": "Darkrai (024/036)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/394/659dbb97e0c2c-1ui6e-8sx94-82756d39dc7617f897883c56424b1370.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:609|394|025",
+  "liga_card_id": "609",
+  "liga_edition_id": "394",
+  "number": "025",
+  "set_total": "036",
+  "name_pt": "Yveltal (025/036)",
+  "name_en": "Yveltal (025/036)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/394/659dbb997e2df-tr30u-2amf0-82756d39dc7617f897883c56424b1370.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:900|394|026",
+  "liga_card_id": "900",
+  "liga_edition_id": "394",
+  "number": "026",
+  "set_total": "036",
+  "name_pt": "Jirachi (026/036)",
+  "name_en": "Jirachi (026/036)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/394/659dbb9b1ba7c-jmqoi-hcgs6-82756d39dc7617f897883c56424b1370.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:900|394|027",
+  "liga_card_id": "900",
+  "liga_edition_id": "394",
+  "number": "027",
+  "set_total": "036",
+  "name_pt": "Jirachi (027/036)",
+  "name_en": "Jirachi (027/036)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/394/659dbb9ca9ca9-bg30c-ux78r-82756d39dc7617f897883c56424b1370.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:32|394|028",
+  "liga_card_id": "32",
+  "liga_edition_id": "394",
+  "number": "028",
+  "set_total": "036",
+  "name_pt": "Genesect (028/036)",
+  "name_en": "Genesect (028/036)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/394/659dbb9e4a2b7-5upiy-807k5-82756d39dc7617f897883c56424b1370.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:32|394|029",
+  "liga_card_id": "32",
+  "liga_edition_id": "394",
+  "number": "029",
+  "set_total": "036",
+  "name_pt": "Genesect (029/036)",
+  "name_en": "Genesect (029/036)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/394/659dbb9fdd119-l3bwq-9pqw3-82756d39dc7617f897883c56424b1370.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:4220|394|030",
+  "liga_card_id": "4220",
+  "liga_edition_id": "394",
+  "number": "030",
+  "set_total": "036",
+  "name_pt": "Magearna (030/036)",
+  "name_en": "Magearna (030/036)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/394/659dbba17c970-p0ayf-1v5iz-82756d39dc7617f897883c56424b1370.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:4220|394|031",
+  "liga_card_id": "4220",
+  "liga_edition_id": "394",
+  "number": "031",
+  "set_total": "036",
+  "name_pt": "Magearna (031/036)",
+  "name_en": "Magearna (031/036)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/394/659dbba31bbba-vbrs5-qhr6w-82756d39dc7617f897883c56424b1370.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:621|394|032",
+  "liga_card_id": "621",
+  "liga_edition_id": "394",
+  "number": "032",
+  "set_total": "036",
+  "name_pt": "Xerneas (032/036)",
+  "name_en": "Xerneas (032/036)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/394/659dbba4ac6f9-csb03-bcrkp-82756d39dc7617f897883c56424b1370.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1109|394|033",
+  "liga_card_id": "1109",
+  "liga_edition_id": "394",
+  "number": "033",
+  "set_total": "036",
+  "name_pt": "Latios-EX (033/036)",
+  "name_en": "Latios-EX (033/036)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/394/659dbba64e563-vm8p2-xubhs-82756d39dc7617f897883c56424b1370.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:991|394|034",
+  "liga_card_id": "991",
+  "liga_edition_id": "394",
+  "number": "034",
+  "set_total": "036",
+  "name_pt": "Rayquaza-EX (034/036)",
+  "name_en": "Rayquaza-EX (034/036)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/394/659dbba7e17cd-v4sm8-q71ae-82756d39dc7617f897883c56424b1370.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:674|394|035",
+  "liga_card_id": "674",
+  "liga_edition_id": "394",
+  "number": "035",
+  "set_total": "036",
+  "name_pt": "Arceus (035/036)",
+  "name_en": "Arceus (035/036)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/394/659dbba97e773-tbdpk-vmt8r-82756d39dc7617f897883c56424b1370.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:674|394|036",
+  "liga_card_id": "674",
+  "liga_edition_id": "394",
+  "number": "036",
+  "set_total": "036",
+  "name_pt": "Arceus (036/036)",
+  "name_en": "Arceus (036/036)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/394/659dbbab1aa2e-8k1em-pk3at-82756d39dc7617f897883c56424b1370.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:610|394|037",
+  "liga_card_id": "610",
+  "liga_edition_id": "394",
+  "number": "037",
+  "set_total": "036",
+  "name_pt": "Yveltal-EX (037/036)",
+  "name_en": "Yveltal-EX (037/036)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/394/659dbbacb1493-60b21-cxsbu-82756d39dc7617f897883c56424b1370.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:622|394|038",
+  "liga_card_id": "622",
+  "liga_edition_id": "394",
+  "number": "038",
+  "set_total": "036",
+  "name_pt": "Xerneas-EX (038/036)",
+  "name_en": "Xerneas-EX (038/036)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/394/659dbbae5494c-gy98f-7z38q-82756d39dc7617f897883c56424b1370.jpg"
  },
  {
   "key": "marketplace:cards:tcg2:458|398|001",
@@ -9588,6 +9968,376 @@
   "name_pt": "Charizard Radiante (001/038)",
   "name_en": "Radiant Charizard (001/038)",
   "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/423/6019_001.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:5817|423|002",
+  "liga_card_id": "5817",
+  "liga_edition_id": "423",
+  "number": "002",
+  "set_total": "038",
+  "name_pt": "Lumineon-V (002/038)",
+  "name_en": "Lumineon-V (002/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/423/5817_002.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:2|423|003",
+  "liga_card_id": "2",
+  "liga_edition_id": "423",
+  "number": "003",
+  "set_total": "038",
+  "name_pt": "Manaphy (003/038)",
+  "name_en": "Manaphy (003/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/423/2_003.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:5949|423|004",
+  "liga_card_id": "5949",
+  "liga_edition_id": "423",
+  "number": "004",
+  "set_total": "038",
+  "name_pt": "Greninja Radiante (004/038)",
+  "name_en": "Radiant Greninja (004/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/423/5949_004.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:260|423|005",
+  "liga_card_id": "260",
+  "liga_edition_id": "423",
+  "number": "005",
+  "set_total": "038",
+  "name_pt": "Mew (005/038)",
+  "name_en": "Mew (005/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/423/260_005.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:74|423|006",
+  "liga_card_id": "74",
+  "liga_edition_id": "423",
+  "number": "006",
+  "set_total": "038",
+  "name_pt": "Ralts (006/038)",
+  "name_en": "Ralts (006/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/423/74_006.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:75|423|007",
+  "liga_card_id": "75",
+  "liga_edition_id": "423",
+  "number": "007",
+  "set_total": "038",
+  "name_pt": "Kirlia (007/038)",
+  "name_en": "Kirlia (007/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/423/75_007.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:625|423|008",
+  "liga_card_id": "625",
+  "liga_edition_id": "423",
+  "number": "008",
+  "set_total": "038",
+  "name_pt": "Bidoof (008/038)",
+  "name_en": "Bidoof (008/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/423/625_008.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:626|423|009",
+  "liga_card_id": "626",
+  "liga_edition_id": "423",
+  "number": "009",
+  "set_total": "038",
+  "name_pt": "Bibarel (009/038)",
+  "name_en": "Bibarel (009/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/423/626_009.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1278|423|010",
+  "liga_card_id": "1278",
+  "liga_edition_id": "423",
+  "number": "010",
+  "set_total": "038",
+  "name_pt": "Corda de Fuga (010/038)",
+  "name_en": "Escape Rope (010/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/423/1278_010.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:5971|423|011",
+  "liga_card_id": "5971",
+  "liga_edition_id": "423",
+  "number": "011",
+  "set_total": "038",
+  "name_pt": "Colônia Anuladora (011/038)",
+  "name_en": "Canceling Cologne (011/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/423/5971_011.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:5429|423|012",
+  "liga_card_id": "5429",
+  "liga_edition_id": "423",
+  "number": "012",
+  "set_total": "038",
+  "name_pt": "Cristal Nevoado (012/038)",
+  "name_en": "Fog Crystal (012/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/423/5429_012.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:835|423|013",
+  "liga_card_id": "835",
+  "liga_edition_id": "423",
+  "number": "013",
+  "set_total": "038",
+  "name_pt": "Supervara (013/038)",
+  "name_en": "Super Rod (013/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/423/835_013.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:742|423|014",
+  "liga_card_id": "742",
+  "liga_edition_id": "423",
+  "number": "014",
+  "set_total": "038",
+  "name_pt": "Fragmento Sombrio (014/038)",
+  "name_en": "Dark Patch (014/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/423/742_014.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:5940|423|015",
+  "liga_card_id": "5940",
+  "liga_edition_id": "423",
+  "number": "015",
+  "set_total": "038",
+  "name_pt": "Tênis de Caminhada (015/038)",
+  "name_en": "Trekking Shoes (015/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/423/5940_015.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:4265|423|016",
+  "liga_card_id": "4265",
+  "liga_edition_id": "423",
+  "number": "016",
+  "set_total": "038",
+  "name_pt": "Bola de Ninho (016/038)",
+  "name_en": "Nest Ball (016/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/423/4265_016.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:750|423|017",
+  "liga_card_id": "750",
+  "liga_edition_id": "423",
+  "number": "017",
+  "set_total": "038",
+  "name_pt": "Ultra Bola (017/038)",
+  "name_en": "Ultra Ball (017/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/423/750_017.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:5722|423|018",
+  "liga_card_id": "5722",
+  "liga_edition_id": "423",
+  "number": "018",
+  "set_total": "038",
+  "name_pt": "Passe de Batalha VIP (018/038)",
+  "name_en": "Battle VIP Pass (018/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/423/5722_018.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:5916|423|019",
+  "liga_card_id": "5916",
+  "liga_edition_id": "423",
+  "number": "019",
+  "set_total": "038",
+  "name_pt": "Bola Pesada de Hisui (019/038)",
+  "name_en": "Hisuian Heavy Ball (019/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/423/5916_019.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:238|423|020",
+  "liga_card_id": "238",
+  "liga_edition_id": "423",
+  "number": "020",
+  "set_total": "038",
+  "name_pt": "Doce Raro (020/038)",
+  "name_en": "Rare Candy (020/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/423/238_020.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:360|423|021",
+  "liga_card_id": "360",
+  "liga_edition_id": "423",
+  "number": "021",
+  "set_total": "038",
+  "name_pt": "Substituição (021/038)",
+  "name_en": "Switch (021/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/423/360_021.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1424|423|022",
+  "liga_card_id": "1424",
+  "liga_edition_id": "423",
+  "number": "022",
+  "set_total": "038",
+  "name_pt": "Bola de Nível (022/038)",
+  "name_en": "Level Ball (022/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/423/1424_022.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:6056|423|023",
+  "liga_card_id": "6056",
+  "liga_edition_id": "423",
+  "number": "023",
+  "set_total": "038",
+  "name_pt": "Aspirador Perdido (023/038)",
+  "name_en": "Lost Vacuum (023/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/423/6056_023.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:6113|423|024",
+  "liga_card_id": "6113",
+  "liga_edition_id": "423",
+  "number": "024",
+  "set_total": "038",
+  "name_pt": "Pedra Selada Florestal (024/038)",
+  "name_en": "Forest Seal Stone (024/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/423/6113_024.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:5922|423|025",
+  "liga_card_id": "5922",
+  "liga_edition_id": "423",
+  "number": "025",
+  "set_total": "038",
+  "name_pt": "Irida (025/038)",
+  "name_en": "Irida (025/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/423/5922_025.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:5597|423|026",
+  "liga_card_id": "5597",
+  "liga_edition_id": "423",
+  "number": "026",
+  "set_total": "038",
+  "name_pt": "Roy (026/038)",
+  "name_en": "Raihan (026/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/423/5597_026.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:5425|423|027",
+  "liga_card_id": "5425",
+  "liga_edition_id": "423",
+  "number": "027",
+  "set_total": "038",
+  "name_pt": "Saturnino (027/038)",
+  "name_en": "Avery (027/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/423/5425_027.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:6081|423|028",
+  "liga_card_id": "6081",
+  "liga_edition_id": "423",
+  "number": "028",
+  "set_total": "038",
+  "name_pt": "Serena (028/038)",
+  "name_en": "Serena (028/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/423/6081_028.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:6473|423|029",
+  "liga_card_id": "6473",
+  "liga_edition_id": "423",
+  "number": "029",
+  "set_total": "038",
+  "name_pt": "Kissera (029/038)",
+  "name_en": "Iono (029/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/423/6473_029.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:6421|423|030",
+  "liga_card_id": "6421",
+  "liga_edition_id": "423",
+  "number": "030",
+  "set_total": "038",
+  "name_pt": "Pesquisa de Professores: Prof. Arka (030/038)",
+  "name_en": "Professor's Research (Professor Sada) (030/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/423/6421_030.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:6425|423|031",
+  "liga_card_id": "6425",
+  "liga_edition_id": "423",
+  "number": "031",
+  "set_total": "038",
+  "name_pt": "Pesquisa de Professores: Prof. Turo (031/038)",
+  "name_en": "Professor's Research (Professor Turo) (031/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/423/6425_031.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:4997|423|032",
+  "liga_card_id": "4997",
+  "liga_edition_id": "423",
+  "number": "032",
+  "set_total": "038",
+  "name_pt": "Ordem da Chefia (032/038)",
+  "name_en": "Boss's Orders (032/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/423/4997_032.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:5327|423|033",
+  "liga_card_id": "5327",
+  "liga_edition_id": "423",
+  "number": "033",
+  "set_total": "038",
+  "name_pt": "Cheryl (033/038)",
+  "name_en": "Cheryl (033/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/423/5327_033.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:5433|423|034",
+  "liga_card_id": "5433",
+  "liga_edition_id": "423",
+  "number": "034",
+  "set_total": "038",
+  "name_pt": "Trilha para o Cume (034/038)",
+  "name_en": "Path to the Peak (034/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/423/5433_034.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:6321|423|035",
+  "liga_card_id": "6321",
+  "liga_edition_id": "423",
+  "number": "035",
+  "set_total": "038",
+  "name_pt": "Quadra de Praia (035/038)",
+  "name_en": "Beach Court (035/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/423/6321_035.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:6399|423|036",
+  "liga_card_id": "6399",
+  "liga_edition_id": "423",
+  "number": "036",
+  "set_total": "038",
+  "name_pt": "Artazon (036/038)",
+  "name_en": "Artazon (036/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/423/6399_036.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:5807|423|037",
+  "liga_card_id": "5807",
+  "liga_edition_id": "423",
+  "number": "037",
+  "set_total": "038",
+  "name_pt": "Reservatório de Magma (037/038)",
+  "name_en": "Magma Basin (037/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/423/5807_037.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:5805|423|038",
+  "liga_card_id": "5805",
+  "liga_edition_id": "423",
+  "number": "038",
+  "set_total": "038",
+  "name_pt": "Energia Turbo Dupla (038/038)",
+  "name_en": "Double Turbo Energy (038/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/423/5805_038.jpg"
  },
  {
   "key": "marketplace:cards:tcg2:597|425|016",
@@ -13750,6 +14500,356 @@
   "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/468/6584515379f9a-z6q4u-fyh9o-7593ea88ad601293e36cdef55d2a444e.jpg"
  },
  {
+  "key": "marketplace:cards:tcg2:567|468|002",
+  "liga_card_id": "567",
+  "liga_edition_id": "468",
+  "number": "002",
+  "set_total": "039",
+  "name_pt": "Pansage (002/039)",
+  "name_en": "Pansage (002/039)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/468/658451550ed7c-xtc8y-60khy-7593ea88ad601293e36cdef55d2a444e.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:569|468|003",
+  "liga_card_id": "569",
+  "liga_edition_id": "468",
+  "number": "003",
+  "set_total": "039",
+  "name_pt": "Chespin (003/039)",
+  "name_en": "Chespin (003/039)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/468/65845156a22ab-g3wcx-k2e8b-7593ea88ad601293e36cdef55d2a444e.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:570|468|004",
+  "liga_card_id": "570",
+  "liga_edition_id": "468",
+  "number": "004",
+  "set_total": "039",
+  "name_pt": "Quilladin (004/039)",
+  "name_en": "Quilladin (004/039)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/468/6584515837e84-4hfpj-56370-7593ea88ad601293e36cdef55d2a444e.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:571|468|005",
+  "liga_card_id": "571",
+  "liga_edition_id": "468",
+  "number": "005",
+  "set_total": "039",
+  "name_pt": "Chesnaught (005/039)",
+  "name_en": "Chesnaught (005/039)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/468/65845159e09d7-pjecq-fengh-7593ea88ad601293e36cdef55d2a444e.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:222|468|006",
+  "liga_card_id": "222",
+  "liga_edition_id": "468",
+  "number": "006",
+  "set_total": "039",
+  "name_pt": "Slugma (006/039)",
+  "name_en": "Slugma (006/039)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/468/6584515b73d5d-9ohjb-2qvw1-7593ea88ad601293e36cdef55d2a444e.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:577|468|007",
+  "liga_card_id": "577",
+  "liga_edition_id": "468",
+  "number": "007",
+  "set_total": "039",
+  "name_pt": "Pansear (007/039)",
+  "name_en": "Pansear (007/039)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/468/6584515d0de82-8brzd-mxsv5-7593ea88ad601293e36cdef55d2a444e.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:579|468|008",
+  "liga_card_id": "579",
+  "liga_edition_id": "468",
+  "number": "008",
+  "set_total": "039",
+  "name_pt": "Fennekin (008/039)",
+  "name_en": "Fennekin (008/039)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/468/6584515e98ea2-i2q8z-nc1p7-7593ea88ad601293e36cdef55d2a444e.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:580|468|009",
+  "liga_card_id": "580",
+  "liga_edition_id": "468",
+  "number": "009",
+  "set_total": "039",
+  "name_pt": "Braixen (009/039)",
+  "name_en": "Braixen (009/039)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/468/65845160367b1-xn6zw-81g0e-7593ea88ad601293e36cdef55d2a444e.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:581|468|010",
+  "liga_card_id": "581",
+  "liga_edition_id": "468",
+  "number": "010",
+  "set_total": "039",
+  "name_pt": "Delphox (010/039)",
+  "name_en": "Delphox (010/039)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/468/65845161c2125-sdtky-xmdze-7593ea88ad601293e36cdef55d2a444e.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:586|468|011",
+  "liga_card_id": "586",
+  "liga_edition_id": "468",
+  "number": "011",
+  "set_total": "039",
+  "name_pt": "Panpour (011/039)",
+  "name_en": "Panpour (011/039)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/468/658451635a678-5vil4-45he3-7593ea88ad601293e36cdef55d2a444e.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:588|468|012",
+  "liga_card_id": "588",
+  "liga_edition_id": "468",
+  "number": "012",
+  "set_total": "039",
+  "name_pt": "Froakie (012/039)",
+  "name_en": "Froakie (012/039)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/468/65845164e6da6-g0up1-clvtj-7593ea88ad601293e36cdef55d2a444e.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:589|468|013",
+  "liga_card_id": "589",
+  "liga_edition_id": "468",
+  "number": "013",
+  "set_total": "039",
+  "name_pt": "Frogadier (013/039)",
+  "name_en": "Frogadier (013/039)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/468/658451667eda0-795y2-kalqd-7593ea88ad601293e36cdef55d2a444e.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:590|468|014",
+  "liga_card_id": "590",
+  "liga_edition_id": "468",
+  "number": "014",
+  "set_total": "039",
+  "name_pt": "Greninja (014/039)",
+  "name_en": "Greninja (014/039)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/468/65845168151cf-40eij-wqjk4-7593ea88ad601293e36cdef55d2a444e.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1648|468|015",
+  "liga_card_id": "1648",
+  "liga_edition_id": "468",
+  "number": "015",
+  "set_total": "039",
+  "name_pt": "Clauncher (015/039)",
+  "name_en": "Clauncher (015/039)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/468/65845169ad412-hgwue-ua281-7593ea88ad601293e36cdef55d2a444e.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:762|468|016",
+  "liga_card_id": "762",
+  "liga_edition_id": "468",
+  "number": "016",
+  "set_total": "039",
+  "name_pt": "Poochyena (016/039)",
+  "name_en": "Poochyena (016/039)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/468/6584516b3c21e-9q5ya-4zk8o-7593ea88ad601293e36cdef55d2a444e.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:755|468|017",
+  "liga_card_id": "755",
+  "liga_edition_id": "468",
+  "number": "017",
+  "set_total": "039",
+  "name_pt": "Mightyena (017/039)",
+  "name_en": "Mightyena (017/039)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/468/6584516cca3fc-m8t7q-degtv-7593ea88ad601293e36cdef55d2a444e.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:607|468|018",
+  "liga_card_id": "607",
+  "liga_edition_id": "468",
+  "number": "018",
+  "set_total": "039",
+  "name_pt": "Inkay (018/039)",
+  "name_en": "Inkay (018/039)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/468/6584516e601b8-v4o1j-2qgce-7593ea88ad601293e36cdef55d2a444e.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:612|468|019",
+  "liga_card_id": "612",
+  "liga_edition_id": "468",
+  "number": "019",
+  "set_total": "039",
+  "name_pt": "Pawniard (019/039)",
+  "name_en": "Pawniard (019/039)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/468/6584517008005-s6juz-onq8a-7593ea88ad601293e36cdef55d2a444e.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:613|468|020",
+  "liga_card_id": "613",
+  "liga_edition_id": "468",
+  "number": "020",
+  "set_total": "039",
+  "name_pt": "Bisharp (020/039)",
+  "name_en": "Bisharp (020/039)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/468/65845171a1391-1utgn-y4s79-7593ea88ad601293e36cdef55d2a444e.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:614|468|021",
+  "liga_card_id": "614",
+  "liga_edition_id": "468",
+  "number": "021",
+  "set_total": "039",
+  "name_pt": "Honedge (021/039)",
+  "name_en": "Honedge (021/039)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/468/6584517337e5b-h9glt-p4xdb-7593ea88ad601293e36cdef55d2a444e.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:223|468|022",
+  "liga_card_id": "223",
+  "liga_edition_id": "468",
+  "number": "022",
+  "set_total": "039",
+  "name_pt": "Snubbull (022/039)",
+  "name_en": "Snubbull (022/039)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/468/65845174bd277-ywj90-30h25-7593ea88ad601293e36cdef55d2a444e.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:179|468|023",
+  "liga_card_id": "179",
+  "liga_edition_id": "468",
+  "number": "023",
+  "set_total": "039",
+  "name_pt": "Granbull (023/039)",
+  "name_en": "Granbull (023/039)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/468/65845176539c5-i8bg1-jpbif-7593ea88ad601293e36cdef55d2a444e.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:619|468|024",
+  "liga_card_id": "619",
+  "liga_edition_id": "468",
+  "number": "024",
+  "set_total": "039",
+  "name_pt": "Swirlix (024/039)",
+  "name_en": "Swirlix (024/039)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/468/65845177dbd01-tixyz-6evkb-7593ea88ad601293e36cdef55d2a444e.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:2147|468|025",
+  "liga_card_id": "2147",
+  "liga_edition_id": "468",
+  "number": "025",
+  "set_total": "039",
+  "name_pt": "Farfetch'd (025/039)",
+  "name_en": "Farfetch'd (025/039)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/468/6584517972bdc-2lbmx-w2y61-7593ea88ad601293e36cdef55d2a444e.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:515|468|026",
+  "liga_card_id": "515",
+  "liga_edition_id": "468",
+  "number": "026",
+  "set_total": "039",
+  "name_pt": "Snorlax (026/039)",
+  "name_en": "Snorlax (026/039)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/468/6584517b07ebe-nhepu-bm543-7593ea88ad601293e36cdef55d2a444e.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:293|468|027",
+  "liga_card_id": "293",
+  "liga_edition_id": "468",
+  "number": "027",
+  "set_total": "039",
+  "name_pt": "Miltank (027/039)",
+  "name_en": "Miltank (027/039)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/468/6584517c887de-z2bqp-9b1p6-7593ea88ad601293e36cdef55d2a444e.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:455|468|028",
+  "liga_card_id": "455",
+  "liga_edition_id": "468",
+  "number": "028",
+  "set_total": "039",
+  "name_pt": "Skitty (028/039)",
+  "name_en": "Skitty (028/039)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/468/6584517e1b4f4-ytnh9-a61x4-7593ea88ad601293e36cdef55d2a444e.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:625|468|029",
+  "liga_card_id": "625",
+  "liga_edition_id": "468",
+  "number": "029",
+  "set_total": "039",
+  "name_pt": "Bidoof (029/039)",
+  "name_en": "Bidoof (029/039)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/468/6584517fa5568-b24j3-gljwq-7593ea88ad601293e36cdef55d2a444e.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:630|468|030",
+  "liga_card_id": "630",
+  "liga_edition_id": "468",
+  "number": "030",
+  "set_total": "039",
+  "name_pt": "Bunnelby (030/039)",
+  "name_en": "Bunnelby (030/039)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/468/658451813d625-y4pg6-vpr6w-7593ea88ad601293e36cdef55d2a444e.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:632|468|031",
+  "liga_card_id": "632",
+  "liga_edition_id": "468",
+  "number": "031",
+  "set_total": "039",
+  "name_pt": "Fletchling (031/039)",
+  "name_en": "Fletchling (031/039)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/468/65845182cf078-3w2gp-qz0ey-7593ea88ad601293e36cdef55d2a444e.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:633|468|032",
+  "liga_card_id": "633",
+  "liga_edition_id": "468",
+  "number": "032",
+  "set_total": "039",
+  "name_pt": "Furfrou (032/039)",
+  "name_en": "Furfrou (032/039)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/468/6584518462afc-m7y4q-zny1a-7593ea88ad601293e36cdef55d2a444e.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:633|468|033",
+  "liga_card_id": "633",
+  "liga_edition_id": "468",
+  "number": "033",
+  "set_total": "039",
+  "name_pt": "Furfrou (033/039)",
+  "name_en": "Furfrou (033/039)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/468/65845185ec24a-9v3ua-f1768-7593ea88ad601293e36cdef55d2a444e.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:359|468|034",
+  "liga_card_id": "359",
+  "liga_edition_id": "468",
+  "number": "034",
+  "set_total": "039",
+  "name_pt": "Poção (034/039)",
+  "name_en": "Potion (034/039)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/468/6584518780f89-7nzcw-6s7ry-7593ea88ad601293e36cdef55d2a444e.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:119|468|035",
+  "liga_card_id": "119",
+  "liga_edition_id": "468",
+  "number": "035",
+  "set_total": "039",
+  "name_pt": "Martelo Esmagador (035/039)",
+  "name_en": "Crushing Hammer (035/039)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/468/65845189172be-a9ot6-1wn83-7593ea88ad601293e36cdef55d2a444e.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:4894|468|037",
+  "liga_card_id": "4894",
+  "liga_edition_id": "468",
+  "number": "037",
+  "set_total": "039",
+  "name_pt": "Pegador de Pokémon (037/039)",
+  "name_en": "Pokémon Catcher (037/039)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/468/6584518f73580-txbwq-8p6qz-7593ea88ad601293e36cdef55d2a444e.jpg"
+ },
+ {
   "key": "marketplace:cards:tcg2:880|469|001",
   "liga_card_id": "880",
   "liga_edition_id": "469",
@@ -14658,6 +15758,336 @@
   "name_pt": "Numel da Equipe Magma (001/034)",
   "name_en": "Team Magma's Numel (001/034)",
   "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/492/658ed7f2bca7b-cjwtz-91584-b49e225d8e4e818865079e018a9cbcf4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1208|492|002",
+  "liga_card_id": "1208",
+  "liga_edition_id": "492",
+  "number": "002",
+  "set_total": "034",
+  "name_pt": "Camerupt da Equipe Magma (002/034)",
+  "name_en": "Team Magma's Camerupt (002/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/492/658ed7f46e84a-a2rpx-w27ih-b49e225d8e4e818865079e018a9cbcf4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1222|492|003",
+  "liga_card_id": "1222",
+  "liga_edition_id": "492",
+  "number": "003",
+  "set_total": "034",
+  "name_pt": "Spheal da Equipe Aqua (003/034)",
+  "name_en": "Team Aqua's Spheal (003/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/492/658ed7f61c7db-0yvht-wfzcl-b49e225d8e4e818865079e018a9cbcf4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1206|492|004",
+  "liga_card_id": "1206",
+  "liga_edition_id": "492",
+  "number": "004",
+  "set_total": "034",
+  "name_pt": "Sealeo da Equipe Aqua (004/034)",
+  "name_en": "Team Aqua's Sealeo (004/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/492/658ed7f7b28e9-s3pbj-q2bik-b49e225d8e4e818865079e018a9cbcf4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1198|492|005",
+  "liga_card_id": "1198",
+  "liga_edition_id": "492",
+  "number": "005",
+  "set_total": "034",
+  "name_pt": "Walrein da Equipe Aqua (005/034)",
+  "name_en": "Team Aqua's Walrein (005/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/492/658ed7f95824d-1j74q-nsk7y-b49e225d8e4e818865079e018a9cbcf4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1607|492|006",
+  "liga_card_id": "1607",
+  "liga_edition_id": "492",
+  "number": "006",
+  "set_total": "034",
+  "name_pt": "Kyogre-EX da Equipe Aqua (006/034)",
+  "name_en": "Team Aqua's Kyogre-EX (006/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/492/658ed7fb2d1b9-kc2n6-l5fw9-b49e225d8e4e818865079e018a9cbcf4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1608|492|007",
+  "liga_card_id": "1608",
+  "liga_edition_id": "492",
+  "number": "007",
+  "set_total": "034",
+  "name_pt": "Grimer da Equipe Aqua (007/034)",
+  "name_en": "Team Aqua's Grimer (007/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/492/658ed7fcd0079-hiwad-2ku3r-b49e225d8e4e818865079e018a9cbcf4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1609|492|008",
+  "liga_card_id": "1609",
+  "liga_edition_id": "492",
+  "number": "008",
+  "set_total": "034",
+  "name_pt": "Muk da Equipe Aqua (008/034)",
+  "name_en": "Team Aqua's Muk (008/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/492/658ed7fe7a5ac-pko7q-0uot9-b49e225d8e4e818865079e018a9cbcf4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1207|492|009",
+  "liga_card_id": "1207",
+  "liga_edition_id": "492",
+  "number": "009",
+  "set_total": "034",
+  "name_pt": "Seviper da Equipe Aqua (009/034)",
+  "name_en": "Team Aqua's Seviper (009/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/492/658ed80029c9e-7hopd-iw3yq-b49e225d8e4e818865079e018a9cbcf4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1217|492|010",
+  "liga_card_id": "1217",
+  "liga_edition_id": "492",
+  "number": "010",
+  "set_total": "034",
+  "name_pt": "Baltoy da Equipe Magma (010/034)",
+  "name_en": "Team Magma's Baltoy (010/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/492/658ed801c2ce4-pcu8m-spnik-b49e225d8e4e818865079e018a9cbcf4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1200|492|011",
+  "liga_card_id": "1200",
+  "liga_edition_id": "492",
+  "number": "011",
+  "set_total": "034",
+  "name_pt": "Claydol da Equipe Magma (011/034)",
+  "name_en": "Team Magma's Claydol (011/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/492/658ed8035f60e-gvn1s-2eylo-b49e225d8e4e818865079e018a9cbcf4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1223|492|012",
+  "liga_card_id": "1223",
+  "liga_edition_id": "492",
+  "number": "012",
+  "set_total": "034",
+  "name_pt": "Aron da Equipe Magma (012/034)",
+  "name_en": "Team Magma's Aron (012/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/492/658ed805044a0-xj9s8-xcl6f-b49e225d8e4e818865079e018a9cbcf4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1209|492|013",
+  "liga_card_id": "1209",
+  "liga_edition_id": "492",
+  "number": "013",
+  "set_total": "034",
+  "name_pt": "Lairon da Equipe Magma (013/034)",
+  "name_en": "Team Magma's Lairon (013/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/492/658ed8069d1c3-0e1s3-qjlhk-b49e225d8e4e818865079e018a9cbcf4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1199|492|014",
+  "liga_card_id": "1199",
+  "liga_edition_id": "492",
+  "number": "014",
+  "set_total": "034",
+  "name_pt": "Aggron da Equipe Magma (014/034)",
+  "name_en": "Team Magma's Aggron (014/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/492/658ed8084a38e-psfjh-5k207-b49e225d8e4e818865079e018a9cbcf4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1610|492|015",
+  "liga_card_id": "1610",
+  "liga_edition_id": "492",
+  "number": "015",
+  "set_total": "034",
+  "name_pt": "Groudon-EX da Equipe Magma (015/034)",
+  "name_en": "Team Magma's Groudon-EX (015/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/492/658ed80a1db40-3z8iu-gdqi1-b49e225d8e4e818865079e018a9cbcf4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1221|492|016",
+  "liga_card_id": "1221",
+  "liga_edition_id": "492",
+  "number": "016",
+  "set_total": "034",
+  "name_pt": "Poochyena da Equipe Aqua (016/034)",
+  "name_en": "Team Aqua's Poochyena (016/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/492/658ed80bb5e38-350l8-bksma-b49e225d8e4e818865079e018a9cbcf4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1225|492|017",
+  "liga_card_id": "1225",
+  "liga_edition_id": "492",
+  "number": "017",
+  "set_total": "034",
+  "name_pt": "Poochyena da Equipe Magma (017/034)",
+  "name_en": "Team Magma's Poochyena (017/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/492/658ed80d595f5-sixko-snacl-b49e225d8e4e818865079e018a9cbcf4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1205|492|018",
+  "liga_card_id": "1205",
+  "liga_edition_id": "492",
+  "number": "018",
+  "set_total": "034",
+  "name_pt": "Mightyena da Equipe Aqua (018/034)",
+  "name_en": "Team Aqua's Mightyena (018/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/492/658ed80f1ee68-uqh2k-a013u-b49e225d8e4e818865079e018a9cbcf4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1210|492|019",
+  "liga_card_id": "1210",
+  "liga_edition_id": "492",
+  "number": "019",
+  "set_total": "034",
+  "name_pt": "Mightyena da Equipe Magma (019/034)",
+  "name_en": "Team Magma's Mightyena (019/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/492/658ed810b7757-dr67g-4vj8s-b49e225d8e4e818865079e018a9cbcf4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1213|492|020",
+  "liga_card_id": "1213",
+  "liga_edition_id": "492",
+  "number": "020",
+  "set_total": "034",
+  "name_pt": "Carvanha da Equipe Aqua (020/034)",
+  "name_en": "Team Aqua's Carvanha (020/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/492/658ed8125a478-y3thj-f7olk-b49e225d8e4e818865079e018a9cbcf4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1197|492|021",
+  "liga_card_id": "1197",
+  "liga_edition_id": "492",
+  "number": "021",
+  "set_total": "034",
+  "name_pt": "Sharpedo da Equipe Aqua (021/034)",
+  "name_en": "Team Aqua's Sharpedo (021/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/492/658ed813f3cfa-ox79s-9atjy-b49e225d8e4e818865079e018a9cbcf4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1211|492|022",
+  "liga_card_id": "1211",
+  "liga_edition_id": "492",
+  "number": "022",
+  "set_total": "034",
+  "name_pt": "Zangoose da Equipe Magma (022/034)",
+  "name_en": "Team Magma's Zangoose (022/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/492/658ed8159d49a-jgv67-zjql9-b49e225d8e4e818865079e018a9cbcf4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1615|492|023",
+  "liga_card_id": "1615",
+  "liga_edition_id": "492",
+  "number": "023",
+  "set_total": "034",
+  "name_pt": "Grande Bola da Equipe Aqua (023/034)",
+  "name_en": "Team Aqua's Great Ball (023/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/492/658ed8173fa98-k5oex-zgriu-b49e225d8e4e818865079e018a9cbcf4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1619|492|024",
+  "liga_card_id": "1619",
+  "liga_edition_id": "492",
+  "number": "024",
+  "set_total": "034",
+  "name_pt": "Grande Bola da Equipe Magma (024/034)",
+  "name_en": "Team Magma's Great Ball (024/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/492/658ed818d83a1-9mgn5-cjk6b-b49e225d8e4e818865079e018a9cbcf4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1611|492|025",
+  "liga_card_id": "1611",
+  "liga_edition_id": "492",
+  "number": "025",
+  "set_total": "034",
+  "name_pt": "Difusor Aqua (025/034)",
+  "name_en": "Aqua Diffuser (025/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/492/658ed81a7829c-h452m-47eoi-b49e225d8e4e818865079e018a9cbcf4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1612|492|026",
+  "liga_card_id": "1612",
+  "liga_edition_id": "492",
+  "number": "026",
+  "set_total": "034",
+  "name_pt": "Ponteiro Magma (026/034)",
+  "name_en": "Magma Pointer (026/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/492/658ed81c1ab47-8dnhz-0m8ey-b49e225d8e4e818865079e018a9cbcf4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1613|492|027",
+  "liga_card_id": "1613",
+  "liga_edition_id": "492",
+  "number": "027",
+  "set_total": "034",
+  "name_pt": "Admin. da Equipe Aqua (027/034)",
+  "name_en": "Team Aqua Admin (027/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/492/658ed81db6ac1-qn04e-ns0f2-b49e225d8e4e818865079e018a9cbcf4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1614|492|028",
+  "liga_card_id": "1614",
+  "liga_edition_id": "492",
+  "number": "028",
+  "set_total": "034",
+  "name_pt": "Operário da Equipe Aqua (028/034)",
+  "name_en": "Team Aqua Grunt (028/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/492/658ed81f5d241-tmshv-5nj1z-b49e225d8e4e818865079e018a9cbcf4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1617|492|029",
+  "liga_card_id": "1617",
+  "liga_edition_id": "492",
+  "number": "029",
+  "set_total": "034",
+  "name_pt": "Admin. da Equipe Magma (029/034)",
+  "name_en": "Team Magma Admin (029/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/492/658ed82108265-he79i-6m8zw-b49e225d8e4e818865079e018a9cbcf4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1618|492|030",
+  "liga_card_id": "1618",
+  "liga_edition_id": "492",
+  "number": "030",
+  "set_total": "034",
+  "name_pt": "Operário da Equipe Magma (030/034)",
+  "name_en": "Team Magma Grunt (030/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/492/658ed8229e0cd-tn25u-2ve3w-b49e225d8e4e818865079e018a9cbcf4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1616|492|031",
+  "liga_card_id": "1616",
+  "liga_edition_id": "492",
+  "number": "031",
+  "set_total": "034",
+  "name_pt": "Base Secreta da Equipe Aqua (031/034)",
+  "name_en": "Team Aqua's Secret Base (031/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/492/658ed8243ea6b-65nj3-hxiwf-b49e225d8e4e818865079e018a9cbcf4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1620|492|032",
+  "liga_card_id": "1620",
+  "liga_edition_id": "492",
+  "number": "032",
+  "set_total": "034",
+  "name_pt": "Base Secreta da Equipe Magma (032/034)",
+  "name_en": "Team Magma's Secret Base (032/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/492/658ed825d6ffe-n9hcu-9nde7-b49e225d8e4e818865079e018a9cbcf4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1621|492|033",
+  "liga_card_id": "1621",
+  "liga_edition_id": "492",
+  "number": "033",
+  "set_total": "034",
+  "name_pt": "Energia Aqua Dupla (033/034)",
+  "name_en": "Double Aqua Energy (033/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/492/658ed8277c6c8-fyjim-pyc7h-b49e225d8e4e818865079e018a9cbcf4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1622|492|034",
+  "liga_card_id": "1622",
+  "liga_edition_id": "492",
+  "number": "034",
+  "set_total": "034",
+  "name_pt": "Energia Magma Dupla (034/034)",
+  "name_en": "Double Magma Energy (034/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/492/658ed829265d1-5smak-a14ib-b49e225d8e4e818865079e018a9cbcf4.jpg"
  },
  {
   "key": "marketplace:cards:tcg2:201|493|001",
@@ -17680,6 +19110,376 @@
   "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/533/6616cf8b0fe8a-uvzyl-sc3vm-b06b578e72f5e6c95e1f06e8bc1963f2.jpg"
  },
  {
+  "key": "marketplace:cards:tcg2:38|533|002",
+  "liga_card_id": "38",
+  "liga_edition_id": "533",
+  "number": "002",
+  "set_total": "038",
+  "name_pt": "Moltres (002/038)",
+  "name_en": "Moltres (002/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/533/6601c96ccb144-axu7w-s70t4-b06b578e72f5e6c95e1f06e8bc1963f2.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:44|533|003",
+  "liga_card_id": "44",
+  "liga_edition_id": "533",
+  "number": "003",
+  "set_total": "038",
+  "name_pt": "Reshiram (003/038)",
+  "name_en": "Reshiram (003/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/533/6616cf8caf231-kin0p-0lkmq-b06b578e72f5e6c95e1f06e8bc1963f2.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1155|533|004",
+  "liga_card_id": "1155",
+  "liga_edition_id": "533",
+  "number": "004",
+  "set_total": "038",
+  "name_pt": "Litleo (004/038)",
+  "name_en": "Litleo (004/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/533/6616cf8ebafec-xhjpy-40erd-b06b578e72f5e6c95e1f06e8bc1963f2.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1156|533|005",
+  "liga_card_id": "1156",
+  "liga_edition_id": "533",
+  "number": "005",
+  "set_total": "038",
+  "name_pt": "Pyroar (005/038)",
+  "name_en": "Pyroar (005/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/533/6616cf9059db0-uozse-6y7go-b06b578e72f5e6c95e1f06e8bc1963f2.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:163|533|006",
+  "liga_card_id": "163",
+  "liga_edition_id": "533",
+  "number": "006",
+  "set_total": "038",
+  "name_pt": "Lapras (006/038)",
+  "name_en": "Lapras (006/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/533/6616cf91e9eb8-wxqma-o7k4t-b06b578e72f5e6c95e1f06e8bc1963f2.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:4743|533|007",
+  "liga_card_id": "4743",
+  "liga_edition_id": "533",
+  "number": "007",
+  "set_total": "038",
+  "name_pt": "Vaporeon-GX (007/038)",
+  "name_en": "Vaporeon-GX (007/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/533/6616cf938fe2c-4n531-n4hmt-b06b578e72f5e6c95e1f06e8bc1963f2.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:350|533|008",
+  "liga_card_id": "350",
+  "liga_edition_id": "533",
+  "number": "008",
+  "set_total": "038",
+  "name_pt": "Wooper (008/038)",
+  "name_en": "Wooper (008/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/533/6616cf953151c-wq37o-i76j5-b06b578e72f5e6c95e1f06e8bc1963f2.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:298|533|009",
+  "liga_card_id": "298",
+  "liga_edition_id": "533",
+  "number": "009",
+  "set_total": "038",
+  "name_pt": "Quagsire (009/038)",
+  "name_en": "Quagsire (009/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/533/6616cf96cb574-2hqg9-hke2z-b06b578e72f5e6c95e1f06e8bc1963f2.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1265|533|010",
+  "liga_card_id": "1265",
+  "liga_edition_id": "533",
+  "number": "010",
+  "set_total": "038",
+  "name_pt": "Kyogre (010/038)",
+  "name_en": "Kyogre (010/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/533/6616cf9869ee8-62byw-9taun-b06b578e72f5e6c95e1f06e8bc1963f2.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:349|533|011",
+  "liga_card_id": "349",
+  "liga_edition_id": "533",
+  "number": "011",
+  "set_total": "038",
+  "name_pt": "Voltorb (011/038)",
+  "name_en": "Voltorb (011/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/533/6616cf9a04107-tqjuo-9ypoj-b06b578e72f5e6c95e1f06e8bc1963f2.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:271|533|012",
+  "liga_card_id": "271",
+  "liga_edition_id": "533",
+  "number": "012",
+  "set_total": "038",
+  "name_pt": "Electrode (012/038)",
+  "name_en": "Electrode (012/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/533/6616cf9ba1036-3oz7f-420a9-b06b578e72f5e6c95e1f06e8bc1963f2.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:4742|533|013",
+  "liga_card_id": "4742",
+  "liga_edition_id": "533",
+  "number": "013",
+  "set_total": "038",
+  "name_pt": "Jolteon-GX (013/038)",
+  "name_en": "Jolteon-GX (013/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/533/6616cf9d41b63-p5y34-9cd2m-b06b578e72f5e6c95e1f06e8bc1963f2.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:61|533|014",
+  "liga_card_id": "61",
+  "liga_edition_id": "533",
+  "number": "014",
+  "set_total": "038",
+  "name_pt": "Zapdos (014/038)",
+  "name_en": "Zapdos (014/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/533/6616cf9ed2324-dzix2-vf5io-b06b578e72f5e6c95e1f06e8bc1963f2.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:4368|533|015",
+  "liga_card_id": "4368",
+  "liga_edition_id": "533",
+  "number": "015",
+  "set_total": "038",
+  "name_pt": "Tapu Koko (015/038)",
+  "name_en": "Tapu Koko (015/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/533/6616cfa07210a-5ijy9-uem8q-b06b578e72f5e6c95e1f06e8bc1963f2.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:127|533|016",
+  "liga_card_id": "127",
+  "liga_edition_id": "533",
+  "number": "016",
+  "set_total": "038",
+  "name_pt": "Eevee (016/038)",
+  "name_en": "Eevee (016/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/533/6616cfa214295-fkt0b-mj7bo-b06b578e72f5e6c95e1f06e8bc1963f2.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:4739|533|017",
+  "liga_card_id": "4739",
+  "liga_edition_id": "533",
+  "number": "017",
+  "set_total": "038",
+  "name_pt": "Eevee-GX (017/038)",
+  "name_en": "Eevee-GX (017/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/533/6616cfa3a6235-h3ur6-v4siu-b06b578e72f5e6c95e1f06e8bc1963f2.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:4739|533|018",
+  "liga_card_id": "4739",
+  "liga_edition_id": "533",
+  "number": "018",
+  "set_total": "038",
+  "name_pt": "Eevee-GX (018/038)",
+  "name_en": "Eevee-GX (018/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/533/6616cfa5493ef-85pje-wmtco-b06b578e72f5e6c95e1f06e8bc1963f2.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:4739|533|019",
+  "liga_card_id": "4739",
+  "liga_edition_id": "533",
+  "number": "019",
+  "set_total": "038",
+  "name_pt": "Eevee-GX (019/038)",
+  "name_en": "Eevee-GX (019/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/533/6616cfa6dc2c0-p4bne-tqfj6-b06b578e72f5e6c95e1f06e8bc1963f2.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1398|533|020",
+  "liga_card_id": "1398",
+  "liga_edition_id": "533",
+  "number": "020",
+  "set_total": "038",
+  "name_pt": "Shaymin (020/038)",
+  "name_en": "Shaymin (020/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/533/6616cfa8784ce-qjh9s-tjs29-b06b578e72f5e6c95e1f06e8bc1963f2.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:4331|533|021",
+  "liga_card_id": "4331",
+  "liga_edition_id": "533",
+  "number": "021",
+  "set_total": "038",
+  "name_pt": "Fragmento Aquático (021/038)",
+  "name_en": "Aqua Patch (021/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/533/6616cfaa160da-z8qia-tzywc-b06b578e72f5e6c95e1f06e8bc1963f2.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:4638|533|022",
+  "liga_card_id": "4638",
+  "liga_edition_id": "533",
+  "number": "022",
+  "set_total": "038",
+  "name_pt": "Boia de Substituição (022/038)",
+  "name_en": "Switch Raft (022/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/533/6616cfabc81a7-h5cl1-s92vl-b06b578e72f5e6c95e1f06e8bc1963f2.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:4662|533|023",
+  "liga_card_id": "4662",
+  "liga_edition_id": "533",
+  "number": "023",
+  "set_total": "038",
+  "name_pt": "Eletropoder (023/038)",
+  "name_en": "Electropower (023/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/533/6616cfad97c48-3y7qu-ic9ya-b06b578e72f5e6c95e1f06e8bc1963f2.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:4265|533|024",
+  "liga_card_id": "4265",
+  "liga_edition_id": "533",
+  "number": "024",
+  "set_total": "038",
+  "name_pt": "Bola de Ninho (024/038)",
+  "name_en": "Nest Ball (024/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/533/6616cfaf68455-9rg7a-htube-b06b578e72f5e6c95e1f06e8bc1963f2.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:750|533|025",
+  "liga_card_id": "750",
+  "liga_edition_id": "533",
+  "number": "025",
+  "set_total": "038",
+  "name_pt": "Ultra Bola (025/038)",
+  "name_en": "Ultra Ball (025/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/533/6616cfb12eade-tehn3-3v4en-b06b578e72f5e6c95e1f06e8bc1963f2.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:4633|533|026",
+  "liga_card_id": "4633",
+  "liga_edition_id": "533",
+  "number": "026",
+  "set_total": "038",
+  "name_pt": "Sílex-de-fogo (026/038)",
+  "name_en": "Fiery Flint (026/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/533/6616cfb2c473a-ce1nl-xuqyv-b06b578e72f5e6c95e1f06e8bc1963f2.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:360|533|027",
+  "liga_card_id": "360",
+  "liga_edition_id": "533",
+  "number": "027",
+  "set_total": "038",
+  "name_pt": "Substituição (027/038)",
+  "name_en": "Switch (027/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/533/6616cfb45a9e1-i1k6s-z7cml-b06b578e72f5e6c95e1f06e8bc1963f2.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:4333|533|028",
+  "liga_card_id": "4333",
+  "liga_edition_id": "533",
+  "number": "028",
+  "set_total": "038",
+  "name_pt": "Faixa da Escolha (028/038)",
+  "name_en": "Choice Band (028/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/533/6616cfb5ebeb8-4lev1-jwyl7-b06b578e72f5e6c95e1f06e8bc1963f2.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:4658|533|029",
+  "liga_card_id": "4658",
+  "liga_edition_id": "533",
+  "number": "029",
+  "set_total": "038",
+  "name_pt": "Capacete da Escolha (029/038)",
+  "name_en": "Choice Helmet (029/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/533/6616cfb78ad7f-abnh5-j45fb-b06b578e72f5e6c95e1f06e8bc1963f2.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:4381|533|030",
+  "liga_card_id": "4381",
+  "liga_edition_id": "533",
+  "number": "030",
+  "set_total": "038",
+  "name_pt": "Kiawe (030/038)",
+  "name_en": "Kiawe (030/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/533/6616cfb93040b-wrxse-1g9qa-b06b578e72f5e6c95e1f06e8bc1963f2.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:4379|533|031",
+  "liga_card_id": "4379",
+  "liga_edition_id": "533",
+  "number": "031",
+  "set_total": "038",
+  "name_pt": "Guzma (031/038)",
+  "name_en": "Guzma (031/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/533/6616cfbabc96c-j6zoi-6qzpb-b06b578e72f5e6c95e1f06e8bc1963f2.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1405|533|032",
+  "liga_card_id": "1405",
+  "liga_edition_id": "533",
+  "number": "032",
+  "set_total": "038",
+  "name_pt": "Juiz (032/038)",
+  "name_en": "Judge (032/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/533/6616cfbc5ae69-0dbh1-4alys-b06b578e72f5e6c95e1f06e8bc1963f2.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:4456|533|033",
+  "liga_card_id": "4456",
+  "liga_edition_id": "533",
+  "number": "033",
+  "set_total": "038",
+  "name_pt": "Cíntia (033/038)",
+  "name_en": "Cynthia (033/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/533/6616cfbde094c-oumin-9d6ko-b06b578e72f5e6c95e1f06e8bc1963f2.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:4484|533|034",
+  "liga_card_id": "4484",
+  "liga_edition_id": "533",
+  "number": "034",
+  "set_total": "038",
+  "name_pt": "Volkner (034/038)",
+  "name_en": "Volkner (034/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/533/6616cfbf7976f-xzfnk-vmseh-b06b578e72f5e6c95e1f06e8bc1963f2.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:4255|533|035",
+  "liga_card_id": "4255",
+  "liga_edition_id": "533",
+  "number": "035",
+  "set_total": "038",
+  "name_pt": "Hibi (035/038)",
+  "name_en": "Hau (035/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/533/6616cfc11e952-a2yp4-47ly5-b06b578e72f5e6c95e1f06e8bc1963f2.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:4566|533|036",
+  "liga_card_id": "4566",
+  "liga_edition_id": "533",
+  "number": "036",
+  "set_total": "038",
+  "name_pt": "Demolidor Wake (036/038)",
+  "name_en": "Crasher Wake (036/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/533/6616cfc2a8c1d-n5iyj-reiwj-b06b578e72f5e6c95e1f06e8bc1963f2.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:4702|533|037",
+  "liga_card_id": "4702",
+  "liga_edition_id": "533",
+  "number": "037",
+  "set_total": "038",
+  "name_pt": "Análise do Bill (037/038)",
+  "name_en": "Bill's Analysis (037/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/533/6616cfc441634-sgwhx-4xksv-b06b578e72f5e6c95e1f06e8bc1963f2.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:4260|533|038",
+  "liga_card_id": "4260",
+  "liga_edition_id": "533",
+  "number": "038",
+  "set_total": "038",
+  "name_pt": "Lílian (038/038)",
+  "name_en": "Lillie (038/038)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/533/6616cfc5cd4f4-dvem0-3n95f-b06b578e72f5e6c95e1f06e8bc1963f2.jpg"
+ },
+ {
   "key": "marketplace:cards:tcg2:213|534|001",
   "liga_card_id": "213",
   "liga_edition_id": "534",
@@ -19250,6 +21050,336 @@
   "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/550/6629543a1af0d-p4zg8-stb2v-9081079137df2be6e9dce0f0ffeb58ff.jpg"
  },
  {
+  "key": "marketplace:cards:tcg2:312|550|002",
+  "liga_card_id": "312",
+  "liga_edition_id": "550",
+  "number": "002",
+  "set_total": "034",
+  "name_pt": "Wartortle (002/034)",
+  "name_en": "Wartortle (002/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/550/6629543bc69c3-8m0na-zy8xi-9081079137df2be6e9dce0f0ffeb58ff.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:134|550|003",
+  "liga_card_id": "134",
+  "liga_edition_id": "550",
+  "number": "003",
+  "set_total": "034",
+  "name_pt": "Blastoise (003/034)",
+  "name_en": "Blastoise (003/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/550/6629543d8e78d-j7neb-puc35-9081079137df2be6e9dce0f0ffeb58ff.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:497|550|004",
+  "liga_card_id": "497",
+  "liga_edition_id": "550",
+  "number": "004",
+  "set_total": "034",
+  "name_pt": "Staryu (004/034)",
+  "name_en": "Staryu (004/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/550/6629543f4945f-r9uit-zl16g-9081079137df2be6e9dce0f0ffeb58ff.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:486|550|005",
+  "liga_card_id": "486",
+  "liga_edition_id": "550",
+  "number": "005",
+  "set_total": "034",
+  "name_pt": "Starmie (005/034)",
+  "name_en": "Starmie (005/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/550/66295440e0319-6ux0g-uhr09-9081079137df2be6e9dce0f0ffeb58ff.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:46|550|006",
+  "liga_card_id": "46",
+  "liga_edition_id": "550",
+  "number": "006",
+  "set_total": "034",
+  "name_pt": "Magikarp (006/034)",
+  "name_en": "Magikarp (006/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/550/662954428204f-ro4l0-5jo12-9081079137df2be6e9dce0f0ffeb58ff.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:47|550|007",
+  "liga_card_id": "47",
+  "liga_edition_id": "550",
+  "number": "007",
+  "set_total": "034",
+  "name_pt": "Gyarados (007/034)",
+  "name_en": "Gyarados (007/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/550/662954442b824-xwlt4-acszr-9081079137df2be6e9dce0f0ffeb58ff.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:163|550|008",
+  "liga_card_id": "163",
+  "liga_edition_id": "550",
+  "number": "008",
+  "set_total": "034",
+  "name_pt": "Lapras (008/034)",
+  "name_en": "Lapras (008/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/550/66295445c350d-u28b4-unl9b-9081079137df2be6e9dce0f0ffeb58ff.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:48|550|009",
+  "liga_card_id": "48",
+  "liga_edition_id": "550",
+  "number": "009",
+  "set_total": "034",
+  "name_pt": "Articuno (009/034)",
+  "name_en": "Articuno (009/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/550/6629544770dc8-g45mp-zaqw8-9081079137df2be6e9dce0f0ffeb58ff.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1248|550|010",
+  "liga_card_id": "1248",
+  "liga_edition_id": "550",
+  "number": "010",
+  "set_total": "034",
+  "name_pt": "Suicune ex (010/034)",
+  "name_en": "Suicune ex (010/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/550/6629544946582-fxjmq-lo7a2-9081079137df2be6e9dce0f0ffeb58ff.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:204|550|011",
+  "liga_card_id": "204",
+  "liga_edition_id": "550",
+  "number": "011",
+  "set_total": "034",
+  "name_pt": "Drowzee (011/034)",
+  "name_en": "Drowzee (011/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/550/6629544ae0acf-em8un-yqlbf-9081079137df2be6e9dce0f0ffeb58ff.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:161|550|012",
+  "liga_card_id": "161",
+  "liga_edition_id": "550",
+  "number": "012",
+  "set_total": "034",
+  "name_pt": "Hypno (012/034)",
+  "name_en": "Hypno (012/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/550/6629544caf000-fs410-o6anm-9081079137df2be6e9dce0f0ffeb58ff.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:514|550|013",
+  "liga_card_id": "514",
+  "liga_edition_id": "550",
+  "number": "013",
+  "set_total": "034",
+  "name_pt": "Mr. Mime (013/034)",
+  "name_en": "Mr. Mime (013/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/550/6629544e5b7bb-ikesv-yec1n-9081079137df2be6e9dce0f0ffeb58ff.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:68|550|014",
+  "liga_card_id": "68",
+  "liga_edition_id": "550",
+  "number": "014",
+  "set_total": "034",
+  "name_pt": "Mewtwo (014/034)",
+  "name_en": "Mewtwo (014/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/550/662954500a031-g7roz-b2nsw-9081079137df2be6e9dce0f0ffeb58ff.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1359|550|015",
+  "liga_card_id": "1359",
+  "liga_edition_id": "550",
+  "number": "015",
+  "set_total": "034",
+  "name_pt": "Rattata do Cap. Surge (015/034)",
+  "name_en": "Lt. Surge's Rattata (015/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/550/66295451998fb-okyh8-olfrm-9081079137df2be6e9dce0f0ffeb58ff.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1340|550|016",
+  "liga_card_id": "1340",
+  "liga_edition_id": "550",
+  "number": "016",
+  "set_total": "034",
+  "name_pt": "Raticate do Cap. Surge (016/034)",
+  "name_en": "Lt. Surge's Raticate (016/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/550/662954534f817-hwir1-gh63e-9081079137df2be6e9dce0f0ffeb58ff.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:381|550|017",
+  "liga_card_id": "381",
+  "liga_edition_id": "550",
+  "number": "017",
+  "set_total": "034",
+  "name_pt": "Kangaskhan (017/034)",
+  "name_en": "Kangaskhan (017/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/550/66295454e960c-09ap4-c0ywk-9081079137df2be6e9dce0f0ffeb58ff.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:554|550|018",
+  "liga_card_id": "554",
+  "liga_edition_id": "550",
+  "number": "018",
+  "set_total": "034",
+  "name_pt": "Bill (018/034)",
+  "name_en": "Bill (018/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/550/66295456880c9-db6yw-e1xtv-9081079137df2be6e9dce0f0ffeb58ff.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:4997|550|019",
+  "liga_card_id": "4997",
+  "liga_edition_id": "550",
+  "number": "019",
+  "set_total": "034",
+  "name_pt": "Ordem da Chefia (019/034)",
+  "name_en": "Boss's Orders (019/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/550/662954583b5e6-iu42c-x6gm1-9081079137df2be6e9dce0f0ffeb58ff.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:538|550|020",
+  "liga_card_id": "538",
+  "liga_edition_id": "550",
+  "number": "020",
+  "set_total": "034",
+  "name_pt": "Pesquisa no Computador (020/034)",
+  "name_en": "Computer Search (020/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/550/6629545a04ccd-ik8j1-j4rov-9081079137df2be6e9dce0f0ffeb58ff.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:6709|550|021",
+  "liga_card_id": "6709",
+  "liga_edition_id": "550",
+  "number": "021",
+  "set_total": "",
+  "name_pt": "",
+  "name_en": "Drops in the Ocean (021/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/550/6629545b9928c-j2y16-pg4zb-9081079137df2be6e9dce0f0ffeb58ff.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1085|550|022",
+  "liga_card_id": "1085",
+  "liga_edition_id": "550",
+  "number": "022",
+  "set_total": "034",
+  "name_pt": "Pescador (022/034)",
+  "name_en": "Fisherman (022/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/550/6629545d5ec28-nktbp-rdu5q-9081079137df2be6e9dce0f0ffeb58ff.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:4895|550|023",
+  "liga_card_id": "4895",
+  "liga_edition_id": "550",
+  "number": "023",
+  "set_total": "034",
+  "name_pt": "Poké Bola (023/034)",
+  "name_en": "Poké Ball (023/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/550/6629545f2787a-t946k-561kl-9081079137df2be6e9dce0f0ffeb58ff.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:5218|550|024",
+  "liga_card_id": "5218",
+  "liga_edition_id": "550",
+  "number": "024",
+  "set_total": "034",
+  "name_pt": "Fã Clube Pokémon (024/034)",
+  "name_en": "Pokémon Fan Club (024/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/550/66295460d20ff-va1xu-q8bnc-9081079137df2be6e9dce0f0ffeb58ff.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:552|550|025",
+  "liga_card_id": "552",
+  "liga_edition_id": "550",
+  "number": "025",
+  "set_total": "034",
+  "name_pt": "Professor Carvalho (025/034)",
+  "name_en": "Professor Oak (025/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/550/662954627b5a0-c45f9-19asy-9081079137df2be6e9dce0f0ffeb58ff.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:238|550|026",
+  "liga_card_id": "238",
+  "liga_edition_id": "550",
+  "number": "026",
+  "set_total": "034",
+  "name_pt": "Doce Raro (026/034)",
+  "name_en": "Rare Candy (026/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/550/662954642bcaa-rf1ce-fdz3p-9081079137df2be6e9dce0f0ffeb58ff.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1048|550|027",
+  "liga_card_id": "1048",
+  "liga_edition_id": "550",
+  "number": "027",
+  "set_total": "034",
+  "name_pt": "Administrador dos Rockets (027/034)",
+  "name_en": "Rocket's Admin. (027/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/550/66295465c7de2-51mqw-x8upj-9081079137df2be6e9dce0f0ffeb58ff.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:835|550|028",
+  "liga_card_id": "835",
+  "liga_edition_id": "550",
+  "number": "028",
+  "set_total": "034",
+  "name_pt": "Supervara (028/034)",
+  "name_en": "Super Rod (028/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/550/662954676b290-85w4k-lndup-9081079137df2be6e9dce0f0ffeb58ff.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:360|550|029",
+  "liga_card_id": "360",
+  "liga_edition_id": "550",
+  "number": "029",
+  "set_total": "034",
+  "name_pt": "Substituição (029/034)",
+  "name_en": "Switch (029/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/550/6629546913fd0-fw34c-urxn8-9081079137df2be6e9dce0f0ffeb58ff.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:750|550|030",
+  "liga_card_id": "750",
+  "liga_edition_id": "550",
+  "number": "030",
+  "set_total": "034",
+  "name_pt": "Ultra Bola (030/034)",
+  "name_en": "Ultra Ball (030/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/550/6629546abdfb2-qvyl2-tmwso-9081079137df2be6e9dce0f0ffeb58ff.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:794|550|031",
+  "liga_card_id": "794",
+  "liga_edition_id": "550",
+  "number": "031",
+  "set_total": "034",
+  "name_pt": "Explorador VS (031/034)",
+  "name_en": "VS Seeker (031/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/550/6629546c5d12e-aglkw-scpd0-9081079137df2be6e9dce0f0ffeb58ff.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:121|550|032",
+  "liga_card_id": "121",
+  "liga_edition_id": "550",
+  "number": "032",
+  "set_total": "034",
+  "name_pt": "Energia Incolor Dupla (032/034)",
+  "name_en": "Double Colorless Energy (032/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/550/6629546e00e61-4lhij-cia5l-9081079137df2be6e9dce0f0ffeb58ff.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:562|550|033",
+  "liga_card_id": "562",
+  "liga_edition_id": "550",
+  "number": "033",
+  "set_total": "034",
+  "name_pt": "Energia de Água (033/034)",
+  "name_en": "Water Energy (033/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/550/6629546fb0919-0t5cl-yo4rx-9081079137df2be6e9dce0f0ffeb58ff.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:561|550|034",
+  "liga_card_id": "561",
+  "liga_edition_id": "550",
+  "number": "034",
+  "set_total": "034",
+  "name_pt": "Energia Psíquica (034/034)",
+  "name_en": "Psychic Energy (034/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/550/662954715a058-6kyrf-vsjfo-9081079137df2be6e9dce0f0ffeb58ff.jpg"
+ },
+ {
   "key": "marketplace:cards:tcg2:33|551|001",
   "liga_card_id": "33",
   "liga_edition_id": "551",
@@ -19260,6 +21390,336 @@
   "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/551/662955b033f99-98iwo-ptoib-595620a02c513984b72787fd84f1997a.jpg"
  },
  {
+  "key": "marketplace:cards:tcg2:34|551|002",
+  "liga_card_id": "34",
+  "liga_edition_id": "551",
+  "number": "002",
+  "set_total": "034",
+  "name_pt": "Charmeleon (002/034)",
+  "name_en": "Charmeleon (002/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/551/662955b1ca958-13cut-zmita-595620a02c513984b72787fd84f1997a.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:35|551|003",
+  "liga_card_id": "35",
+  "liga_edition_id": "551",
+  "number": "003",
+  "set_total": "034",
+  "name_pt": "Charizard (003/034)",
+  "name_en": "Charizard (003/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/551/662955b36b960-nvi4x-bnx0e-595620a02c513984b72787fd84f1997a.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:694|551|004",
+  "liga_card_id": "694",
+  "liga_edition_id": "551",
+  "number": "004",
+  "set_total": "034",
+  "name_pt": "Ponyta (004/034)",
+  "name_en": "Ponyta (004/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/551/662955b52225d-81w4t-clg0z-595620a02c513984b72787fd84f1997a.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:683|551|005",
+  "liga_card_id": "683",
+  "liga_edition_id": "551",
+  "number": "005",
+  "set_total": "034",
+  "name_pt": "Rapidash (005/034)",
+  "name_en": "Rapidash (005/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/551/662955b6cae1d-eryqd-xowp8-595620a02c513984b72787fd84f1997a.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:328|551|006",
+  "liga_card_id": "328",
+  "liga_edition_id": "551",
+  "number": "006",
+  "set_total": "034",
+  "name_pt": "Magmar (006/034)",
+  "name_en": "Magmar (006/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/551/662955b86d429-1dygz-k08yv-595620a02c513984b72787fd84f1997a.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:147|551|007",
+  "liga_card_id": "147",
+  "liga_edition_id": "551",
+  "number": "007",
+  "set_total": "034",
+  "name_pt": "Ho-Oh ex (007/034)",
+  "name_en": "Ho-Oh ex (007/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/551/662955ba3089d-bz04d-21xeq-595620a02c513984b72787fd84f1997a.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:15|551|008",
+  "liga_card_id": "15",
+  "liga_edition_id": "551",
+  "number": "008",
+  "set_total": "034",
+  "name_pt": "Pikachu (008/034)",
+  "name_en": "Pikachu (008/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/551/662955bc121ae-sm4u9-46pez-595620a02c513984b72787fd84f1997a.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:3|551|009",
+  "liga_card_id": "3",
+  "liga_edition_id": "551",
+  "number": "009",
+  "set_total": "034",
+  "name_pt": "Raichu (009/034)",
+  "name_en": "Raichu (009/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/551/662955bdbd503-0bovg-cr531-595620a02c513984b72787fd84f1997a.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:349|551|010",
+  "liga_card_id": "349",
+  "liga_edition_id": "551",
+  "number": "010",
+  "set_total": "034",
+  "name_pt": "Voltorb (010/034)",
+  "name_en": "Voltorb (010/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/551/662955bf65bc3-re4qk-hxrsw-595620a02c513984b72787fd84f1997a.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:271|551|011",
+  "liga_card_id": "271",
+  "liga_edition_id": "551",
+  "number": "011",
+  "set_total": "034",
+  "name_pt": "Electrode (011/034)",
+  "name_en": "Electrode (011/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/551/662955c10cb49-osdhg-quegz-595620a02c513984b72787fd84f1997a.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:61|551|012",
+  "liga_card_id": "61",
+  "liga_edition_id": "551",
+  "number": "012",
+  "set_total": "034",
+  "name_pt": "Zapdos (012/034)",
+  "name_en": "Zapdos (012/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/551/662955c2a74c6-6ilp4-j3r96-595620a02c513984b72787fd84f1997a.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:319|551|013",
+  "liga_card_id": "319",
+  "liga_edition_id": "551",
+  "number": "013",
+  "set_total": "034",
+  "name_pt": "Clefairy (013/034)",
+  "name_en": "Clefairy (013/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/551/662955c45256d-slx8h-qvwlr-595620a02c513984b72787fd84f1997a.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:509|551|014",
+  "liga_card_id": "509",
+  "liga_edition_id": "551",
+  "number": "014",
+  "set_total": "034",
+  "name_pt": "Clefable (014/034)",
+  "name_en": "Clefable (014/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/551/662955c5e975d-ofu4v-l0pcv-595620a02c513984b72787fd84f1997a.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:436|551|015",
+  "liga_card_id": "436",
+  "liga_edition_id": "551",
+  "number": "015",
+  "set_total": "034",
+  "name_pt": "Dunsparce (015/034)",
+  "name_en": "Dunsparce (015/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/551/662955c7920bd-2mxqs-o1xy5-595620a02c513984b72787fd84f1997a.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:345|551|016",
+  "liga_card_id": "345",
+  "liga_edition_id": "551",
+  "number": "016",
+  "set_total": "034",
+  "name_pt": "Stantler (016/034)",
+  "name_en": "Stantler (016/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/551/662955c9387d8-7f3pi-h3275-595620a02c513984b72787fd84f1997a.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:293|551|017",
+  "liga_card_id": "293",
+  "liga_edition_id": "551",
+  "number": "017",
+  "set_total": "034",
+  "name_pt": "Miltank (017/034)",
+  "name_en": "Miltank (017/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/551/662955cb45dd8-yudp3-nwyxf-595620a02c513984b72787fd84f1997a.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:554|551|018",
+  "liga_card_id": "554",
+  "liga_edition_id": "551",
+  "number": "018",
+  "set_total": "034",
+  "name_pt": "Bill (018/034)",
+  "name_en": "Bill (018/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/551/662955cce02ac-8ok5p-wqt19-595620a02c513984b72787fd84f1997a.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:4997|551|019",
+  "liga_card_id": "4997",
+  "liga_edition_id": "551",
+  "number": "019",
+  "set_total": "034",
+  "name_pt": "Ordem da Chefia (019/034)",
+  "name_en": "Boss's Orders (019/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/551/662955ce93f95-b91rx-r08cb-595620a02c513984b72787fd84f1997a.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:538|551|020",
+  "liga_card_id": "538",
+  "liga_edition_id": "551",
+  "number": "020",
+  "set_total": "034",
+  "name_pt": "Pesquisa no Computador (020/034)",
+  "name_en": "Computer Search (020/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/551/662955d030270-10r36-wu3ny-595620a02c513984b72787fd84f1997a.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:4895|551|021",
+  "liga_card_id": "4895",
+  "liga_edition_id": "551",
+  "number": "021",
+  "set_total": "034",
+  "name_pt": "Poké Bola (021/034)",
+  "name_en": "Poké Ball (021/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/551/662955d1d5046-ml7qa-3dn8w-595620a02c513984b72787fd84f1997a.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:5218|551|022",
+  "liga_card_id": "5218",
+  "liga_edition_id": "551",
+  "number": "022",
+  "set_total": "034",
+  "name_pt": "Fã Clube Pokémon (022/034)",
+  "name_en": "Pokémon Fan Club (022/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/551/662955d3aafeb-dk01t-hz2il-595620a02c513984b72787fd84f1997a.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:552|551|023",
+  "liga_card_id": "552",
+  "liga_edition_id": "551",
+  "number": "023",
+  "set_total": "034",
+  "name_pt": "Professor Carvalho (023/034)",
+  "name_en": "Professor Oak (023/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/551/662955d54b7b4-p128m-fd9h5-595620a02c513984b72787fd84f1997a.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:238|551|024",
+  "liga_card_id": "238",
+  "liga_edition_id": "551",
+  "number": "024",
+  "set_total": "034",
+  "name_pt": "Doce Raro (024/034)",
+  "name_en": "Rare Candy (024/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/551/662955d7205ed-b16wx-9ka67-595620a02c513984b72787fd84f1997a.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1048|551|025",
+  "liga_card_id": "1048",
+  "liga_edition_id": "551",
+  "number": "025",
+  "set_total": "034",
+  "name_pt": "Administrador dos Rockets (025/034)",
+  "name_en": "Rocket's Admin. (025/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/551/662955d8bdf3a-iw51z-hvpig-595620a02c513984b72787fd84f1997a.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:6708|551|026",
+  "liga_card_id": "6708",
+  "liga_edition_id": "551",
+  "number": "026",
+  "set_total": "",
+  "name_pt": "",
+  "name_en": "Scorching Charcoal (026/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/551/662955da56843-c8pur-cl417-595620a02c513984b72787fd84f1997a.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:835|551|027",
+  "liga_card_id": "835",
+  "liga_edition_id": "551",
+  "number": "027",
+  "set_total": "034",
+  "name_pt": "Supervara (027/034)",
+  "name_en": "Super Rod (027/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/551/662955dbf0ee4-n9gi4-yviho-595620a02c513984b72787fd84f1997a.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:4422|551|028",
+  "liga_card_id": "4422",
+  "liga_edition_id": "551",
+  "number": "028",
+  "set_total": "034",
+  "name_pt": "Super-recolhida (028/034)",
+  "name_en": "Super Scoop Up (028/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/551/662955ddc103a-ulre1-z5649-595620a02c513984b72787fd84f1997a.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:360|551|029",
+  "liga_card_id": "360",
+  "liga_edition_id": "551",
+  "number": "029",
+  "set_total": "034",
+  "name_pt": "Substituição (029/034)",
+  "name_en": "Switch (029/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/551/662955df63640-0hq2d-a4dko-595620a02c513984b72787fd84f1997a.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:750|551|030",
+  "liga_card_id": "750",
+  "liga_edition_id": "551",
+  "number": "030",
+  "set_total": "034",
+  "name_pt": "Ultra Bola (030/034)",
+  "name_en": "Ultra Ball (030/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/551/662955e10884e-yz5s4-xckfz-595620a02c513984b72787fd84f1997a.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:794|551|031",
+  "liga_card_id": "794",
+  "liga_edition_id": "551",
+  "number": "031",
+  "set_total": "034",
+  "name_pt": "Explorador VS (031/034)",
+  "name_en": "VS Seeker (031/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/551/662955e2a6aa0-64whs-ftmp4-595620a02c513984b72787fd84f1997a.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:121|551|032",
+  "liga_card_id": "121",
+  "liga_edition_id": "551",
+  "number": "032",
+  "set_total": "034",
+  "name_pt": "Energia Incolor Dupla (032/034)",
+  "name_en": "Double Colorless Energy (032/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/551/662955e448d0d-ibh5q-incfk-595620a02c513984b72787fd84f1997a.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:558|551|033",
+  "liga_card_id": "558",
+  "liga_edition_id": "551",
+  "number": "033",
+  "set_total": "034",
+  "name_pt": "Energia de Fogo (033/034)",
+  "name_en": "Fire Energy (033/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/551/662955e604c2c-1gufj-ky2mf-595620a02c513984b72787fd84f1997a.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:560|551|034",
+  "liga_card_id": "560",
+  "liga_edition_id": "551",
+  "number": "034",
+  "set_total": "034",
+  "name_pt": "Energia de Raio (034/034)",
+  "name_en": "Lightning Energy (034/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/551/662955e7b09d2-y82fw-6iav9-595620a02c513984b72787fd84f1997a.jpg"
+ },
+ {
   "key": "marketplace:cards:tcg2:314|552|001",
   "liga_card_id": "314",
   "liga_edition_id": "552",
@@ -19268,6 +21728,336 @@
   "name_pt": "Bulbasaur (001/034)",
   "name_en": "Bulbasaur (001/034)",
   "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/552/662956c8add17-gcrx9-09ds4-e4ed525fd63bde306efb4aacbecf6dd1.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:144|552|002",
+  "liga_card_id": "144",
+  "liga_edition_id": "552",
+  "number": "002",
+  "set_total": "034",
+  "name_pt": "Ivysaur (002/034)",
+  "name_en": "Ivysaur (002/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/552/662956cb4dca6-x60ht-lgm6p-e4ed525fd63bde306efb4aacbecf6dd1.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:265|552|003",
+  "liga_card_id": "265",
+  "liga_edition_id": "552",
+  "number": "003",
+  "set_total": "034",
+  "name_pt": "Venusaur (003/034)",
+  "name_en": "Venusaur (003/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/552/662956ccf3057-wzehf-9d8fn-e4ed525fd63bde306efb4aacbecf6dd1.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:495|552|004",
+  "liga_card_id": "495",
+  "liga_edition_id": "552",
+  "number": "004",
+  "set_total": "034",
+  "name_pt": "Paras (004/034)",
+  "name_en": "Paras (004/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/552/662956cecd81b-sn2gw-aq81j-e4ed525fd63bde306efb4aacbecf6dd1.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:489|552|005",
+  "liga_card_id": "489",
+  "liga_edition_id": "552",
+  "number": "005",
+  "set_total": "034",
+  "name_pt": "Parasect (005/034)",
+  "name_en": "Parasect (005/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/552/662956d12584b-dzve7-v5f43-e4ed525fd63bde306efb4aacbecf6dd1.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:384|552|006",
+  "liga_card_id": "384",
+  "liga_edition_id": "552",
+  "number": "006",
+  "set_total": "034",
+  "name_pt": "Scyther (006/034)",
+  "name_en": "Scyther (006/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/552/662956d2bb1fd-ohjpb-85fhe-e4ed525fd63bde306efb4aacbecf6dd1.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:297|552|007",
+  "liga_card_id": "297",
+  "liga_edition_id": "552",
+  "number": "007",
+  "set_total": "034",
+  "name_pt": "Pinsir (007/034)",
+  "name_en": "Pinsir (007/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/552/662956d45f2f6-7znor-e254n-e4ed525fd63bde306efb4aacbecf6dd1.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:537|552|008",
+  "liga_card_id": "537",
+  "liga_edition_id": "552",
+  "number": "008",
+  "set_total": "034",
+  "name_pt": "Sandshrew (008/034)",
+  "name_en": "Sandshrew (008/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/552/662956d610e54-i5mrt-7u1p6-e4ed525fd63bde306efb4aacbecf6dd1.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:957|552|009",
+  "liga_card_id": "957",
+  "liga_edition_id": "552",
+  "number": "009",
+  "set_total": "034",
+  "name_pt": "Sandslash (009/034)",
+  "name_en": "Sandslash (009/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/552/662956d7c08a5-j21rn-vzpt2-e4ed525fd63bde306efb4aacbecf6dd1.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:534|552|010",
+  "liga_card_id": "534",
+  "liga_edition_id": "552",
+  "number": "010",
+  "set_total": "034",
+  "name_pt": "Onix (010/034)",
+  "name_en": "Onix (010/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/552/662956d960836-zhwlg-5tseh-e4ed525fd63bde306efb4aacbecf6dd1.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1139|552|011",
+  "liga_card_id": "1139",
+  "liga_edition_id": "552",
+  "number": "011",
+  "set_total": "034",
+  "name_pt": "Hitmonlee (011/034)",
+  "name_en": "Hitmonlee (011/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/552/662956db0f532-buymo-bk3ih-e4ed525fd63bde306efb4aacbecf6dd1.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:510|552|012",
+  "liga_card_id": "510",
+  "liga_edition_id": "552",
+  "number": "012",
+  "set_total": "034",
+  "name_pt": "Hitmonchan (012/034)",
+  "name_en": "Hitmonchan (012/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/552/662956dca9d8a-dl1s4-9nue5-e4ed525fd63bde306efb4aacbecf6dd1.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:530|552|013",
+  "liga_card_id": "530",
+  "liga_edition_id": "552",
+  "number": "013",
+  "set_total": "034",
+  "name_pt": "Doduo (013/034)",
+  "name_en": "Doduo (013/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/552/662956de67248-ng23u-roay6-e4ed525fd63bde306efb4aacbecf6dd1.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:517|552|014",
+  "liga_card_id": "517",
+  "liga_edition_id": "552",
+  "number": "014",
+  "set_total": "034",
+  "name_pt": "Dodrio (014/034)",
+  "name_en": "Dodrio (014/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/552/662956e003b05-y7z1c-agj78-e4ed525fd63bde306efb4aacbecf6dd1.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:508|552|015",
+  "liga_card_id": "508",
+  "liga_edition_id": "552",
+  "number": "015",
+  "set_total": "034",
+  "name_pt": "Chansey (015/034)",
+  "name_en": "Chansey (015/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/552/662956e19ba6e-frxs1-p0ema-e4ed525fd63bde306efb4aacbecf6dd1.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:515|552|016",
+  "liga_card_id": "515",
+  "liga_edition_id": "552",
+  "number": "016",
+  "set_total": "034",
+  "name_pt": "Snorlax (016/034)",
+  "name_en": "Snorlax (016/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/552/662956e34db86-zmwrq-uidt0-e4ed525fd63bde306efb4aacbecf6dd1.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1930|552|017",
+  "liga_card_id": "1930",
+  "liga_edition_id": "552",
+  "number": "017",
+  "set_total": "034",
+  "name_pt": "Lugia ex (017/034)",
+  "name_en": "Lugia ex (017/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/552/662956e505f04-dxmzw-9kog4-e4ed525fd63bde306efb4aacbecf6dd1.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:554|552|018",
+  "liga_card_id": "554",
+  "liga_edition_id": "552",
+  "number": "018",
+  "set_total": "034",
+  "name_pt": "Bill (018/034)",
+  "name_en": "Bill (018/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/552/662956e698464-uojbr-j2iq1-e4ed525fd63bde306efb4aacbecf6dd1.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:4997|552|019",
+  "liga_card_id": "4997",
+  "liga_edition_id": "552",
+  "number": "019",
+  "set_total": "034",
+  "name_pt": "Ordem da Chefia (019/034)",
+  "name_en": "Boss's Orders (019/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/552/662956e836a17-vmsi5-a1gr6-e4ed525fd63bde306efb4aacbecf6dd1.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:538|552|020",
+  "liga_card_id": "538",
+  "liga_edition_id": "552",
+  "number": "020",
+  "set_total": "034",
+  "name_pt": "Pesquisa no Computador (020/034)",
+  "name_en": "Computer Search (020/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/552/662956e9caae7-naipu-jv4nq-e4ed525fd63bde306efb4aacbecf6dd1.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:4895|552|021",
+  "liga_card_id": "4895",
+  "liga_edition_id": "552",
+  "number": "021",
+  "set_total": "034",
+  "name_pt": "Poké Bola (021/034)",
+  "name_en": "Poké Ball (021/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/552/662956eb64108-q8pr9-7tn9a-e4ed525fd63bde306efb4aacbecf6dd1.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:5218|552|022",
+  "liga_card_id": "5218",
+  "liga_edition_id": "552",
+  "number": "022",
+  "set_total": "034",
+  "name_pt": "Fã Clube Pokémon (022/034)",
+  "name_en": "Pokémon Fan Club (022/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/552/662956ed0174f-rog6b-rtpgy-e4ed525fd63bde306efb4aacbecf6dd1.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:5219|552|023",
+  "liga_card_id": "5219",
+  "liga_edition_id": "552",
+  "number": "023",
+  "set_total": "034",
+  "name_pt": "Pokémon Nurse (023/034)",
+  "name_en": "Pokémon Nurse (023/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/552/662956ee91f0e-4c9iv-dvb92-e4ed525fd63bde306efb4aacbecf6dd1.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:552|552|024",
+  "liga_card_id": "552",
+  "liga_edition_id": "552",
+  "number": "024",
+  "set_total": "034",
+  "name_pt": "Professor Carvalho (024/034)",
+  "name_en": "Professor Oak (024/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/552/662956f046af2-qnp5i-07q6x-e4ed525fd63bde306efb4aacbecf6dd1.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:238|552|025",
+  "liga_card_id": "238",
+  "liga_edition_id": "552",
+  "number": "025",
+  "set_total": "034",
+  "name_pt": "Doce Raro (025/034)",
+  "name_en": "Rare Candy (025/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/552/662956f1ed5e5-ftnem-z8p4r-e4ed525fd63bde306efb4aacbecf6dd1.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1048|552|026",
+  "liga_card_id": "1048",
+  "liga_edition_id": "552",
+  "number": "026",
+  "set_total": "034",
+  "name_pt": "Administrador dos Rockets (026/034)",
+  "name_en": "Rocket's Admin. (026/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/552/662956f38e19c-83yn9-x24sq-e4ed525fd63bde306efb4aacbecf6dd1.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:6707|552|027",
+  "liga_card_id": "6707",
+  "liga_edition_id": "552",
+  "number": "027",
+  "set_total": "",
+  "name_pt": "",
+  "name_en": "Sun Seed (027/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/552/662956f5369d3-v2snh-oduq5-e4ed525fd63bde306efb4aacbecf6dd1.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:835|552|028",
+  "liga_card_id": "835",
+  "liga_edition_id": "552",
+  "number": "028",
+  "set_total": "034",
+  "name_pt": "Supervara (028/034)",
+  "name_en": "Super Rod (028/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/552/662956f6d7079-i0mnh-xbtgr-e4ed525fd63bde306efb4aacbecf6dd1.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:360|552|029",
+  "liga_card_id": "360",
+  "liga_edition_id": "552",
+  "number": "029",
+  "set_total": "034",
+  "name_pt": "Substituição (029/034)",
+  "name_en": "Switch (029/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/552/662956f87f237-gq19k-dmg3z-e4ed525fd63bde306efb4aacbecf6dd1.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:750|552|030",
+  "liga_card_id": "750",
+  "liga_edition_id": "552",
+  "number": "030",
+  "set_total": "034",
+  "name_pt": "Ultra Bola (030/034)",
+  "name_en": "Ultra Ball (030/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/552/662956fa249cb-oq2j4-8csjh-e4ed525fd63bde306efb4aacbecf6dd1.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:794|552|031",
+  "liga_card_id": "794",
+  "liga_edition_id": "552",
+  "number": "031",
+  "set_total": "034",
+  "name_pt": "Explorador VS (031/034)",
+  "name_en": "VS Seeker (031/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/552/662956fbc9229-42cyv-khlfi-e4ed525fd63bde306efb4aacbecf6dd1.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:121|552|032",
+  "liga_card_id": "121",
+  "liga_edition_id": "552",
+  "number": "032",
+  "set_total": "034",
+  "name_pt": "Energia Incolor Dupla (032/034)",
+  "name_en": "Double Colorless Energy (032/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/552/662956fd6a2ed-457uz-fw97z-e4ed525fd63bde306efb4aacbecf6dd1.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:5154|552|033",
+  "liga_card_id": "5154",
+  "liga_edition_id": "552",
+  "number": "033",
+  "set_total": "034",
+  "name_pt": "Energia de Grama (033/034)",
+  "name_en": "Grass Energy (033/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/552/662956ff1280e-oiqrk-pyd5u-e4ed525fd63bde306efb4aacbecf6dd1.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:557|552|034",
+  "liga_card_id": "557",
+  "liga_edition_id": "552",
+  "number": "034",
+  "set_total": "034",
+  "name_pt": "Energia de Luta (034/034)",
+  "name_en": "Fighting Energy (034/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/552/66295700a834d-sjeih-lo4hv-e4ed525fd63bde306efb4aacbecf6dd1.jpg"
  },
  {
   "key": "marketplace:cards:tcg2:331|553|001",
@@ -32510,6 +35300,476 @@
   "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/681/67fe963600929-miz5w-q8f27-0a14a5f96f9418d90e356e1acd3169a9.jpg"
  },
  {
+  "key": "marketplace:cards:tcg2:23|681|002",
+  "liga_card_id": "23",
+  "liga_edition_id": "681",
+  "number": "002",
+  "set_total": "034",
+  "name_pt": "Snivy (002/034)",
+  "name_en": "Snivy (002/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/681/67fe9637f2a8e-k3pwf-bn9dj-0a14a5f96f9418d90e356e1acd3169a9.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:24|681|003",
+  "liga_card_id": "24",
+  "liga_edition_id": "681",
+  "number": "003",
+  "set_total": "034",
+  "name_pt": "Servine (003/034)",
+  "name_en": "Servine (003/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/681/67fe963a723f9-tu6rk-p28dl-0a14a5f96f9418d90e356e1acd3169a9.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:25|681|004",
+  "liga_card_id": "25",
+  "liga_edition_id": "681",
+  "number": "004",
+  "set_total": "034",
+  "name_pt": "Serperior (004/034)",
+  "name_en": "Serperior (004/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/681/67fe963c3cdc8-ipd9o-sr4bu-0a14a5f96f9418d90e356e1acd3169a9.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:433|681|017",
+  "liga_card_id": "433",
+  "liga_edition_id": "681",
+  "number": "017",
+  "set_total": "034",
+  "name_pt": "Wobbuffet (017/034)",
+  "name_en": "Wobbuffet (017/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/681/67fe963e0d661-l69wg-gtu9e-0a14a5f96f9418d90e356e1acd3169a9.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:7|681|018",
+  "liga_card_id": "7",
+  "liga_edition_id": "681",
+  "number": "018",
+  "set_total": "034",
+  "name_pt": "Croagunk (018/034)",
+  "name_en": "Croagunk (018/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/681/67fe963fc36f7-bar8m-v9aug-0a14a5f96f9418d90e356e1acd3169a9.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:83|681|019",
+  "liga_card_id": "83",
+  "liga_edition_id": "681",
+  "number": "019",
+  "set_total": "034",
+  "name_pt": "Gothita (019/034)",
+  "name_en": "Gothita (019/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/681/67fe964254bf3-pi13g-bmk30-0a14a5f96f9418d90e356e1acd3169a9.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:84|681|020",
+  "liga_card_id": "84",
+  "liga_edition_id": "681",
+  "number": "020",
+  "set_total": "034",
+  "name_pt": "Gothorita (020/034)",
+  "name_en": "Gothorita (020/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/681/67fe9644d4b8c-v9zh4-bfacx-0a14a5f96f9418d90e356e1acd3169a9.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:2147|681|026",
+  "liga_card_id": "2147",
+  "liga_edition_id": "681",
+  "number": "026",
+  "set_total": "034",
+  "name_pt": "Farfetch'd (026/034)",
+  "name_en": "Farfetch'd (026/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/681/67fe964696aea-l5krz-cnogj-0a14a5f96f9418d90e356e1acd3169a9.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:623|681|029",
+  "liga_card_id": "623",
+  "liga_edition_id": "681",
+  "number": "029",
+  "set_total": "034",
+  "name_pt": "Taillow (029/034)",
+  "name_en": "Taillow (029/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/681/67fe96485d807-umgfp-cr46a-0a14a5f96f9418d90e356e1acd3169a9.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:359|681|031",
+  "liga_card_id": "359",
+  "liga_edition_id": "681",
+  "number": "031",
+  "set_total": "034",
+  "name_pt": "Poção (031/034)",
+  "name_en": "Potion (031/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/681/67fe964a21701-rb8iy-nh8lq-0a14a5f96f9418d90e356e1acd3169a9.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:360|681|032",
+  "liga_card_id": "360",
+  "liga_edition_id": "681",
+  "number": "032",
+  "set_total": "034",
+  "name_pt": "Substituição (032/034)",
+  "name_en": "Switch (032/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/681/67fe964be2002-4jtq8-teir4-0a14a5f96f9418d90e356e1acd3169a9.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:4895|681|033",
+  "liga_card_id": "4895",
+  "liga_edition_id": "681",
+  "number": "033",
+  "set_total": "034",
+  "name_pt": "Poké Bola (033/034)",
+  "name_en": "Poké Ball (033/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/681/67fe964da9863-y2bq8-kmu2r-0a14a5f96f9418d90e356e1acd3169a9.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:740|681|034",
+  "liga_card_id": "740",
+  "liga_edition_id": "681",
+  "number": "034",
+  "set_total": "034",
+  "name_pt": "Cheren (034/034)",
+  "name_en": "Cheren (034/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/681/67fe964f67b44-zmyh6-7egpq-0a14a5f96f9418d90e356e1acd3169a9.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:5154|681|035",
+  "liga_card_id": "5154",
+  "liga_edition_id": "681",
+  "number": "035",
+  "set_total": "034",
+  "name_pt": "Energia de Grama (035/034)",
+  "name_en": "Grass Energy (035/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/681/67fe9651213c3-yrqw5-ukl0p-0a14a5f96f9418d90e356e1acd3169a9.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:561|681|036",
+  "liga_card_id": "561",
+  "liga_edition_id": "681",
+  "number": "036",
+  "set_total": "034",
+  "name_pt": "Energia Psíquica (036/034)",
+  "name_en": "Psychic Energy (036/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/681/67fe965377f8a-hzjre-ouji7-0a14a5f96f9418d90e356e1acd3169a9.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:39|682|005",
+  "liga_card_id": "39",
+  "liga_edition_id": "682",
+  "number": "005",
+  "set_total": "034",
+  "name_pt": "Victini (005/034)",
+  "name_en": "Victini (005/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/682/67fe96efbd8f2-eizn7-6i72w-3c0a846bf7834496d6688482e7d13875.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:41|682|006",
+  "liga_card_id": "41",
+  "liga_edition_id": "682",
+  "number": "006",
+  "set_total": "034",
+  "name_pt": "Tepig (006/034)",
+  "name_en": "Tepig (006/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/682/67fe96f1a1948-u8dam-5ju4o-3c0a846bf7834496d6688482e7d13875.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:42|682|007",
+  "liga_card_id": "42",
+  "liga_edition_id": "682",
+  "number": "007",
+  "set_total": "034",
+  "name_pt": "Pignite (007/034)",
+  "name_en": "Pignite (007/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/682/67fe96f421cce-lu0hz-idmyj-3c0a846bf7834496d6688482e7d13875.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:43|682|008",
+  "liga_card_id": "43",
+  "liga_edition_id": "682",
+  "number": "008",
+  "set_total": "034",
+  "name_pt": "Emboar (008/034)",
+  "name_en": "Emboar (008/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/682/67fe96f5ea39d-th3e8-h8pty-3c0a846bf7834496d6688482e7d13875.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:217|682|021",
+  "liga_card_id": "217",
+  "liga_edition_id": "682",
+  "number": "021",
+  "set_total": "034",
+  "name_pt": "Makuhita (021/034)",
+  "name_en": "Makuhita (021/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/682/67fe96f7bc739-bzq0g-jkd3r-3c0a846bf7834496d6688482e7d13875.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:91|682|022",
+  "liga_card_id": "91",
+  "liga_edition_id": "682",
+  "number": "022",
+  "set_total": "034",
+  "name_pt": "Riolu (022/034)",
+  "name_en": "Riolu (022/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/682/67fe96f9837ed-evbu3-o397r-3c0a846bf7834496d6688482e7d13875.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:92|682|023",
+  "liga_card_id": "92",
+  "liga_edition_id": "682",
+  "number": "023",
+  "set_total": "034",
+  "name_pt": "Lucario (023/034)",
+  "name_en": "Lucario (023/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/682/67fe96fb6601f-cxv0j-cm9rw-3c0a846bf7834496d6688482e7d13875.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:824|682|024",
+  "liga_card_id": "824",
+  "liga_edition_id": "682",
+  "number": "024",
+  "set_total": "034",
+  "name_pt": "Mienfoo (024/034)",
+  "name_en": "Mienfoo (024/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/682/67fe96fe183d0-p61yt-h17io-3c0a846bf7834496d6688482e7d13875.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:532|682|025",
+  "liga_card_id": "532",
+  "liga_edition_id": "682",
+  "number": "025",
+  "set_total": "034",
+  "name_pt": "Meowth (025/034)",
+  "name_en": "Meowth (025/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/682/67fe96ffe1871-guht4-5d6zl-3c0a846bf7834496d6688482e7d13875.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:515|682|027",
+  "liga_card_id": "515",
+  "liga_edition_id": "682",
+  "number": "027",
+  "set_total": "034",
+  "name_pt": "Snorlax (027/034)",
+  "name_en": "Snorlax (027/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/682/67fe9701aecef-pe9c5-41z2j-3c0a846bf7834496d6688482e7d13875.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:359|682|031",
+  "liga_card_id": "359",
+  "liga_edition_id": "682",
+  "number": "031",
+  "set_total": "034",
+  "name_pt": "Poção (031/034)",
+  "name_en": "Potion (031/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/682/67fe970440df8-ni6do-24uzy-3c0a846bf7834496d6688482e7d13875.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:360|682|032",
+  "liga_card_id": "360",
+  "liga_edition_id": "682",
+  "number": "032",
+  "set_total": "034",
+  "name_pt": "Substituição (032/034)",
+  "name_en": "Switch (032/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/682/67fe970624bd5-27wdm-qhgn7-3c0a846bf7834496d6688482e7d13875.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:4895|682|033",
+  "liga_card_id": "4895",
+  "liga_edition_id": "682",
+  "number": "033",
+  "set_total": "034",
+  "name_pt": "Poké Bola (033/034)",
+  "name_en": "Poké Ball (033/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/682/67fe9707e2532-08xec-wzsfk-3c0a846bf7834496d6688482e7d13875.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:740|682|034",
+  "liga_card_id": "740",
+  "liga_edition_id": "682",
+  "number": "034",
+  "set_total": "034",
+  "name_pt": "Cheren (034/034)",
+  "name_en": "Cheren (034/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/682/67fe9709a522e-tr8nh-19jyl-3c0a846bf7834496d6688482e7d13875.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:558|682|037",
+  "liga_card_id": "558",
+  "liga_edition_id": "682",
+  "number": "037",
+  "set_total": "034",
+  "name_pt": "Energia de Fogo (037/034)",
+  "name_en": "Fire Energy (037/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/682/67fe970b6bed9-2og91-6imj2-3c0a846bf7834496d6688482e7d13875.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:557|682|038",
+  "liga_card_id": "557",
+  "liga_edition_id": "682",
+  "number": "038",
+  "set_total": "034",
+  "name_pt": "Energia de Luta (038/034)",
+  "name_en": "Fighting Energy (038/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/682/67fe970d2d926-lpnrh-bzmku-3c0a846bf7834496d6688482e7d13875.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:52|683|009",
+  "liga_card_id": "52",
+  "liga_edition_id": "683",
+  "number": "009",
+  "set_total": "034",
+  "name_pt": "Oshawott (009/034)",
+  "name_en": "Oshawott (009/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/683/67fe977d13124-2iyx9-mf4c8-0adfdb0a787575f43d556ed98051692b.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:53|683|010",
+  "liga_card_id": "53",
+  "liga_edition_id": "683",
+  "number": "010",
+  "set_total": "034",
+  "name_pt": "Dewott (010/034)",
+  "name_en": "Dewott (010/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/683/67fe977f9a366-hb710-io013-0adfdb0a787575f43d556ed98051692b.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:54|683|011",
+  "liga_card_id": "54",
+  "liga_edition_id": "683",
+  "number": "011",
+  "set_total": "034",
+  "name_pt": "Samurott (011/034)",
+  "name_en": "Samurott (011/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/683/67fe978165978-4e8iw-dhxp1-0adfdb0a787575f43d556ed98051692b.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:994|683|012",
+  "liga_card_id": "994",
+  "liga_edition_id": "683",
+  "number": "012",
+  "set_total": "034",
+  "name_pt": "Keldeo (012/034)",
+  "name_en": "Keldeo (012/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/683/67fe9783ef1ed-jqfi8-8jhlv-0adfdb0a787575f43d556ed98051692b.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:15|683|013",
+  "liga_card_id": "15",
+  "liga_edition_id": "683",
+  "number": "013",
+  "set_total": "034",
+  "name_pt": "Pikachu (013/034)",
+  "name_en": "Pikachu (013/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/683/67fe9785b4bfd-6mpuh-kl84c-0adfdb0a787575f43d556ed98051692b.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:349|683|014",
+  "liga_card_id": "349",
+  "liga_edition_id": "683",
+  "number": "014",
+  "set_total": "034",
+  "name_pt": "Voltorb (014/034)",
+  "name_en": "Voltorb (014/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/683/67fe9787712a1-wbof6-1f3jn-0adfdb0a787575f43d556ed98051692b.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:271|683|015",
+  "liga_card_id": "271",
+  "liga_edition_id": "683",
+  "number": "015",
+  "set_total": "034",
+  "name_pt": "Electrode (015/034)",
+  "name_en": "Electrode (015/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/683/67fe978941cf9-iasov-ofjag-0adfdb0a787575f43d556ed98051692b.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:447|683|016",
+  "liga_card_id": "447",
+  "liga_edition_id": "683",
+  "number": "016",
+  "set_total": "034",
+  "name_pt": "Chinchou (016/034)",
+  "name_en": "Chinchou (016/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/683/67fe978b0ced1-v5cja-iwd5o-0adfdb0a787575f43d556ed98051692b.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:225|683|028",
+  "liga_card_id": "225",
+  "liga_edition_id": "683",
+  "number": "028",
+  "set_total": "034",
+  "name_pt": "Togepi (028/034)",
+  "name_en": "Togepi (028/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/683/67fe978ccfc22-iadz9-rgs0o-0adfdb0a787575f43d556ed98051692b.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:343|683|030",
+  "liga_card_id": "343",
+  "liga_edition_id": "683",
+  "number": "030",
+  "set_total": "034",
+  "name_pt": "Spinda (030/034)",
+  "name_en": "Spinda (030/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/683/67fe978ea4675-iycv3-hl6o4-0adfdb0a787575f43d556ed98051692b.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:359|683|031",
+  "liga_card_id": "359",
+  "liga_edition_id": "683",
+  "number": "031",
+  "set_total": "034",
+  "name_pt": "Poção (031/034)",
+  "name_en": "Potion (031/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/683/67fe97905f5ba-mholq-x3kae-0adfdb0a787575f43d556ed98051692b.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:360|683|032",
+  "liga_card_id": "360",
+  "liga_edition_id": "683",
+  "number": "032",
+  "set_total": "034",
+  "name_pt": "Substituição (032/034)",
+  "name_en": "Switch (032/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/683/67fe979236981-7pckb-yqvch-0adfdb0a787575f43d556ed98051692b.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:4895|683|033",
+  "liga_card_id": "4895",
+  "liga_edition_id": "683",
+  "number": "033",
+  "set_total": "034",
+  "name_pt": "Poké Bola (033/034)",
+  "name_en": "Poké Ball (033/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/683/67fe9793db305-if8h7-d89vo-0adfdb0a787575f43d556ed98051692b.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:740|683|034",
+  "liga_card_id": "740",
+  "liga_edition_id": "683",
+  "number": "034",
+  "set_total": "034",
+  "name_pt": "Cheren (034/034)",
+  "name_en": "Cheren (034/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/683/67fe9795a19c1-l135v-ow04k-0adfdb0a787575f43d556ed98051692b.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:562|683|039",
+  "liga_card_id": "562",
+  "liga_edition_id": "683",
+  "number": "039",
+  "set_total": "034",
+  "name_pt": "Energia de Água (039/034)",
+  "name_en": "Water Energy (039/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/683/67fe97977274d-opdj5-svhen-0adfdb0a787575f43d556ed98051692b.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:560|683|040",
+  "liga_card_id": "560",
+  "liga_edition_id": "683",
+  "number": "040",
+  "set_total": "034",
+  "name_pt": "Energia de Raio (040/034)",
+  "name_en": "Lightning Energy (040/034)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/683/67fe97993ceea-zdykt-afix0-0adfdb0a787575f43d556ed98051692b.jpg"
+ },
+ {
   "key": "marketplace:cards:tcg2:26|684|001",
   "liga_card_id": "26",
   "liga_edition_id": "684",
@@ -40688,6 +43948,486 @@
   "name_pt": "Tropius (001/040)",
   "name_en": "Tropius (001/040)",
   "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6ba5f6f361-95u0e-5v3zu-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:21|825|002",
+  "liga_card_id": "21",
+  "liga_edition_id": "825",
+  "number": "002",
+  "set_total": "040",
+  "name_pt": "Cherubi (002/040)",
+  "name_en": "Cherubi (002/040)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6ba6153acf-6tewp-04wsd-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:680|825|003",
+  "liga_card_id": "680",
+  "liga_edition_id": "825",
+  "number": "003",
+  "set_total": "040",
+  "name_pt": "Cherrim (003/040)",
+  "name_en": "Cherrim (003/040)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6ba6303bde-4z67e-okfcz-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:36|825|004",
+  "liga_card_id": "36",
+  "liga_edition_id": "825",
+  "number": "004",
+  "set_total": "040",
+  "name_pt": "Vulpix (004/040)",
+  "name_en": "Vulpix (004/040)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6ba64a913c-towsy-r7ev6-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:37|825|005",
+  "liga_card_id": "37",
+  "liga_edition_id": "825",
+  "number": "005",
+  "set_total": "040",
+  "name_pt": "Ninetales (005/040)",
+  "name_en": "Ninetales (005/040)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6ba66653f7-ikhe3-t73sg-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:39|825|006",
+  "liga_card_id": "39",
+  "liga_edition_id": "825",
+  "number": "006",
+  "set_total": "040",
+  "name_pt": "Victini (006/040)",
+  "name_en": "Victini (006/040)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6ba68309df-lpyrt-s5gjq-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:4737|825|007",
+  "liga_card_id": "4737",
+  "liga_edition_id": "825",
+  "number": "007",
+  "set_total": "040",
+  "name_pt": "Zeraora (007/040)",
+  "name_en": "Zeraora (007/040)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6ba69e9607-p4afx-yqlgt-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:5039|825|008",
+  "liga_card_id": "5039",
+  "liga_edition_id": "825",
+  "number": "008",
+  "set_total": "040",
+  "name_pt": "Toxel (008/040)",
+  "name_en": "Toxel (008/040)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6ba6ba9c2b-pvegh-w20kg-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:5032|825|009",
+  "liga_card_id": "5032",
+  "liga_edition_id": "825",
+  "number": "009",
+  "set_total": "040",
+  "name_pt": "Toxtricity (009/040)",
+  "name_en": "Toxtricity (009/040)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6ba6d7ed5c-sqyvm-xtf1r-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:68|825|010",
+  "liga_card_id": "68",
+  "liga_edition_id": "825",
+  "number": "010",
+  "set_total": "040",
+  "name_pt": "Mewtwo (010/040)",
+  "name_en": "Mewtwo (010/040)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6ba6f78c34-2gh5m-owhjy-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:260|825|011",
+  "liga_card_id": "260",
+  "liga_edition_id": "825",
+  "number": "011",
+  "set_total": "040",
+  "name_pt": "Mew (011/040)",
+  "name_en": "Mew (011/040)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6ba7134126-p0l29-4c8p0-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:843|825|012",
+  "liga_card_id": "843",
+  "liga_edition_id": "825",
+  "number": "012",
+  "set_total": "040",
+  "name_pt": "Marill (012/040)",
+  "name_en": "Marill (012/040)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6ba730cbc7-310ls-l0oqt-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:838|825|013",
+  "liga_card_id": "838",
+  "liga_edition_id": "825",
+  "number": "013",
+  "set_total": "040",
+  "name_pt": "Azumarill (013/040)",
+  "name_en": "Azumarill (013/040)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6ba74b2525-av5xi-zns8m-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1928|825|014",
+  "liga_card_id": "1928",
+  "liga_edition_id": "825",
+  "number": "014",
+  "set_total": "040",
+  "name_pt": "Espeon ex (014/040)",
+  "name_en": "Espeon ex (014/040)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6ba764fed6-pf84h-jtsb8-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:149|825|015",
+  "liga_card_id": "149",
+  "liga_edition_id": "825",
+  "number": "015",
+  "set_total": "040",
+  "name_pt": "Cresselia (015/040)",
+  "name_en": "Cresselia (015/040)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6ba7812b5f-3sdfl-s2ly3-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:4345|825|016",
+  "liga_card_id": "4345",
+  "liga_edition_id": "825",
+  "number": "016",
+  "set_total": "040",
+  "name_pt": "Comfey (016/040)",
+  "name_en": "Comfey (016/040)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6ba79c5300-9xnqp-4751v-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1935|825|017",
+  "liga_card_id": "1935",
+  "liga_edition_id": "825",
+  "number": "017",
+  "set_total": "040",
+  "name_pt": "Umbreon ex (017/040)",
+  "name_en": "Umbreon ex (017/040)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6ba7b6c9f1-9c06w-80563-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:330|825|018",
+  "liga_card_id": "330",
+  "liga_edition_id": "825",
+  "number": "018",
+  "set_total": "040",
+  "name_pt": "Murkrow (018/040)",
+  "name_en": "Murkrow (018/040)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6ba7d35f20-dax1t-x67s2-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:100|825|019",
+  "liga_card_id": "100",
+  "liga_edition_id": "825",
+  "number": "019",
+  "set_total": "040",
+  "name_pt": "Zorua (019/040)",
+  "name_en": "Zorua (019/040)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6ba7ed45ab-lqjpf-jv807-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:101|825|020",
+  "liga_card_id": "101",
+  "liga_edition_id": "825",
+  "number": "020",
+  "set_total": "040",
+  "name_pt": "Zoroark (020/040)",
+  "name_en": "Zoroark (020/040)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6ba8081bc1-u7hj8-exid9-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:105|825|021",
+  "liga_card_id": "105",
+  "liga_edition_id": "825",
+  "number": "021",
+  "set_total": "040",
+  "name_pt": "Deino (021/040)",
+  "name_en": "Deino (021/040)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6ba8221f6c-d6y8q-f06bh-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:106|825|022",
+  "liga_card_id": "106",
+  "liga_edition_id": "825",
+  "number": "022",
+  "set_total": "040",
+  "name_pt": "Zweilous (022/040)",
+  "name_en": "Zweilous (022/040)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6ba83b4ef8-2ut0m-cw9hi-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:107|825|023",
+  "liga_card_id": "107",
+  "liga_edition_id": "825",
+  "number": "023",
+  "set_total": "040",
+  "name_pt": "Hydreigon (023/040)",
+  "name_en": "Hydreigon (023/040)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6ba85424c5-h3b91-xhr4a-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:381|825|024",
+  "liga_card_id": "381",
+  "liga_edition_id": "825",
+  "number": "024",
+  "set_total": "040",
+  "name_pt": "Kangaskhan (024/040)",
+  "name_en": "Kangaskhan (024/040)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6ba870294b-tvpqh-oxrnb-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:127|825|025",
+  "liga_card_id": "127",
+  "liga_edition_id": "825",
+  "number": "025",
+  "set_total": "040",
+  "name_pt": "Eevee (025/040)",
+  "name_en": "Eevee (025/040)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6ba88b327e-635sr-qtlxe-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:127|825|026",
+  "liga_card_id": "127",
+  "liga_edition_id": "825",
+  "number": "026",
+  "set_total": "040",
+  "name_pt": "Eevee (026/040)",
+  "name_en": "Eevee (026/040)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6ba8b01809-mr4gt-mubzf-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:4356|825|027",
+  "liga_card_id": "4356",
+  "liga_edition_id": "825",
+  "number": "027",
+  "set_total": "040",
+  "name_pt": "Minior (027/040)",
+  "name_en": "Minior (027/040)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6ba8d40a4c-0jdp8-m0bal-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:359|825|028",
+  "liga_card_id": "359",
+  "liga_edition_id": "825",
+  "number": "028",
+  "set_total": "040",
+  "name_pt": "Poção (028/040)",
+  "name_en": "Potion (028/040)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6ba8ef2a71-zhgnt-dn0ol-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:119|825|029",
+  "liga_card_id": "119",
+  "liga_edition_id": "825",
+  "number": "029",
+  "set_total": "040",
+  "name_pt": "Martelo Esmagador (029/040)",
+  "name_en": "Crushing Hammer (029/040)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6ba909cd15-ktayh-2dgv1-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:750|825|030",
+  "liga_card_id": "750",
+  "liga_edition_id": "825",
+  "number": "030",
+  "set_total": "040",
+  "name_pt": "Ultra Bola (030/040)",
+  "name_en": "Ultra Ball (030/040)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6ba92f01ba-p4ln6-larpj-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:8018|825|031",
+  "liga_card_id": "8018",
+  "liga_edition_id": "825",
+  "number": "031",
+  "set_total": "040",
+  "name_pt": "Poké Tablet (031/040)",
+  "name_en": "Poké Pad (031/040)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6ba9501380-ecjud-gw3rl-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:360|825|032",
+  "liga_card_id": "360",
+  "liga_edition_id": "825",
+  "number": "032",
+  "set_total": "040",
+  "name_pt": "Substituição (032/040)",
+  "name_en": "Switch (032/040)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6ba970015e-csn9j-lay63-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:4894|825|033",
+  "liga_card_id": "4894",
+  "liga_edition_id": "825",
+  "number": "033",
+  "set_total": "040",
+  "name_pt": "Pegador de Pokémon (033/040)",
+  "name_en": "Pokémon Catcher (033/040)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6ba9901fd2-3te27-st7ei-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:7331|825|034",
+  "liga_card_id": "7331",
+  "liga_edition_id": "825",
+  "number": "034",
+  "set_total": "040",
+  "name_pt": "Espírito de Luta da Iris (034/040)",
+  "name_en": "Iris's Fighting Spirit (034/040)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6ba9af1b1c-j7a65-4umra-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:8167|825|035",
+  "liga_card_id": "8167",
+  "liga_edition_id": "825",
+  "number": "035",
+  "set_total": "040",
+  "name_pt": "Garçonete (035/040)",
+  "name_en": "Waitress (035/040)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6ba9d005c1-c7iyh-owckz-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:8168|825|036",
+  "liga_card_id": "8168",
+  "liga_edition_id": "825",
+  "number": "036",
+  "set_total": "040",
+  "name_pt": "Urbano (036/040)",
+  "name_en": "Urbain (036/040)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6ba9eef728-9mzcq-weo3a-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1405|825|037",
+  "liga_card_id": "1405",
+  "liga_edition_id": "825",
+  "number": "037",
+  "set_total": "040",
+  "name_pt": "Juiz (037/040)",
+  "name_en": "Judge (037/040)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6baa1008ed-468jc-b1h5x-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:7493|825|038",
+  "liga_card_id": "7493",
+  "liga_edition_id": "825",
+  "number": "038",
+  "set_total": "040",
+  "name_pt": "Busca do Brock (038/040)",
+  "name_en": "Brock's Scouting (038/040)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6bab66c8bc-7srf6-7f1cp-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:4997|825|039",
+  "liga_card_id": "4997",
+  "liga_edition_id": "825",
+  "number": "039",
+  "set_total": "040",
+  "name_pt": "Ordem da Chefia (039/040)",
+  "name_en": "Boss's Orders (039/040)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6bab831718-3am9s-1exhn-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:7874|825|040",
+  "liga_card_id": "7874",
+  "liga_edition_id": "825",
+  "number": "040",
+  "set_total": "040",
+  "name_pt": "Determinação da Lílian (040/040)",
+  "name_en": "Lillie's Determination (040/040)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6baba02997-2fphz-n4y8w-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:39|825|041",
+  "liga_card_id": "39",
+  "liga_edition_id": "825",
+  "number": "041",
+  "set_total": "040",
+  "name_pt": "Victini (041/040)",
+  "name_en": "Victini (041/040)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6babb96dd3-w6cmy-14jow-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:4737|825|042",
+  "liga_card_id": "4737",
+  "liga_edition_id": "825",
+  "number": "042",
+  "set_total": "040",
+  "name_pt": "Zeraora (042/040)",
+  "name_en": "Zeraora (042/040)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6babd437ce-sahi0-gi8td-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1928|825|043",
+  "liga_card_id": "1928",
+  "liga_edition_id": "825",
+  "number": "043",
+  "set_total": "040",
+  "name_pt": "Espeon ex (043/040)",
+  "name_en": "Espeon ex (043/040)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6babf0927e-ou8yg-yoik1-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:1935|825|044",
+  "liga_card_id": "1935",
+  "liga_edition_id": "825",
+  "number": "044",
+  "set_total": "040",
+  "name_pt": "Umbreon ex (044/040)",
+  "name_en": "Umbreon ex (044/040)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6bac0bcb09-g0uw7-n54rl-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:5154|825|045",
+  "liga_card_id": "5154",
+  "liga_edition_id": "825",
+  "number": "045",
+  "set_total": "040",
+  "name_pt": "Energia de Grama (045/040)",
+  "name_en": "Grass Energy (045/040)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6bac27a3f3-inze5-np952-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:558|825|046",
+  "liga_card_id": "558",
+  "liga_edition_id": "825",
+  "number": "046",
+  "set_total": "040",
+  "name_pt": "Energia de Fogo (046/040)",
+  "name_en": "Fire Energy (046/040)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6bac43fc5e-rezbi-awzrt-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:560|825|047",
+  "liga_card_id": "560",
+  "liga_edition_id": "825",
+  "number": "047",
+  "set_total": "040",
+  "name_pt": "Energia de Raio (047/040)",
+  "name_en": "Lightning Energy (047/040)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6bac5d55a6-zdmge-yjac0-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:561|825|048",
+  "liga_card_id": "561",
+  "liga_edition_id": "825",
+  "number": "048",
+  "set_total": "040",
+  "name_pt": "Energia Psíquica (048/040)",
+  "name_en": "Psychic Energy (048/040)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6bac77d649-fn5zi-swpti-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
+ },
+ {
+  "key": "marketplace:cards:tcg2:361|825|049",
+  "liga_card_id": "361",
+  "liga_edition_id": "825",
+  "number": "049",
+  "set_total": "040",
+  "name_pt": "Energia de Escuridão (049/040)",
+  "name_en": "Darkness Energy (049/040)",
+  "image": "https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/825/6ab6bac929895-ed3vp-19zb6-19e51f0785aca3c62a3d898a2b6fd7b4.jpg"
  },
  {
   "key": "marketplace:cards:tcg2:1041|826|001",
